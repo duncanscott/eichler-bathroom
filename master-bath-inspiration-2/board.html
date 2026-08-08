@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eichler Primary Bath — Inspiration Board (Round 2)</title>
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #faf8f5; color: #2b2b2b; line-height: 1.5;
+  }
+  header { padding: 40px 24px 8px; max-width: 1200px; margin: 0 auto; }
+  h1 { font-size: 1.7rem; font-weight: 650; margin: 0 0 6px; }
+  header p { margin: 6px 0; color: #5a5347; max-width: 70ch; }
+  h2 { max-width: 1200px; margin: 34px auto 4px; padding: 0 24px; font-size: 1.15rem; font-weight: 600; }
+  .note { max-width: 1200px; margin: 0 auto; padding: 0 24px; color: #7a7266; font-size: .9rem; }
+  .grid {
+    max-width: 1200px; margin: 14px auto; padding: 0 16px;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px;
+  }
+  .card {
+    display: flex; flex-direction: column; text-decoration: none; color: inherit;
+    background: #fff; border-radius: 12px; overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,.09); transition: transform .12s ease, box-shadow .12s ease;
+  }
+  .card:hover { transform: translateY(-3px); box-shadow: 0 6px 18px rgba(0,0,0,.14); }
+  .imgwrap { position: relative; background: #ece7df; aspect-ratio: 3/4; }
+  .imgwrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .tag { position: absolute; top: 8px; left: 8px; background: rgba(0,0,0,.6); color: #fff;
+    font-size: .68rem; padding: 2px 7px; border-radius: 20px; letter-spacing: .02em; }
+  .cap { padding: 10px 12px 12px; font-size: .82rem; color: #3b352c; }
+  .cap b { display: block; font-size: .72rem; color: #9a8f7d; font-weight: 600; margin-bottom: 2px; letter-spacing: .03em; }
+  .fallback { display:none; position:absolute; inset:0; align-items:center; justify-content:center;
+    text-align:center; padding:16px; font-size:.78rem; color:#8a7f6d; }
+  footer { max-width: 1200px; margin: 30px auto 60px; padding: 0 24px; color: #8a8172; font-size: .82rem; }
+  a.src { color: #7a6a4a; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Eichler Primary Bathroom — Inspiration Board</h1>
+  <p>Round 2 supplement: 15 Pinterest pins plus web/design-source references. Every image links to its source. Images load live from Pinterest and publisher sites, so an internet connection is needed to see them.</p>
+  <p style="font-size:.85rem;color:#8a8172">Recurring direction: a warm walnut or teak vanity paired with one saturated tile color (forest green and mid-century blue lead), a calm white envelope, and an open, glass-enclosed wet zone.</p>
+</header>
+
+<h2>Pinterest pins</h2>
+<p class="note">Sponsored/product listings were skipped. Pinterest can detach an image from its original project, so treat these as visual ideas rather than verified Eichler builds.</p>
+<div class="grid" id="pins"></div>
+
+<h2>Web &amp; design-source references</h2>
+<p class="note">Documented projects, tile sources, and Eichler-specific guides. A few include a representative photo; all link to the full page.</p>
+<div class="grid" id="web"></div>
+
+<footer>
+  Collected Aug 7, 2026 for private design research. Copyright remains with the original photographers, designers, and publishers on the linked pages. See <code>sources.csv</code> for all URLs and <code>README.md</code> for detailed notes.
+</footer>
+
+<script>
+const pins = [
+ ["P01","https://i.pinimg.com/736x/94/41/30/944130f76bd7a2ea992a2175294febef.jpg","https://www.pinterest.com/pin/7388786885238314/","Floating teak vanity, brass mirror, forest-green tile"],
+ ["P02","https://i.pinimg.com/736x/4d/06/7a/4d067aadc2fcd051c77a9845d8d25f89.jpg","https://www.pinterest.com/pin/211174979105655/","Double vanity, blue tile wall, walk-in shower"],
+ ["P03","https://i.pinimg.com/736x/be/9e/00/be9e00fc2176d018792b5ac1dc75216b.jpg","https://www.pinterest.com/pin/74098356365535422/","Green-tiled double vanity"],
+ ["P04","https://i.pinimg.com/736x/d4/76/ab/d476abc363ddb4fe7d8d52e5ab073c54.jpg","https://www.pinterest.com/pin/282530576621102392/","Green tile with wood cabinetry"],
+ ["P05","https://i.pinimg.com/736x/40/79/52/407952dd67297703ed7d6a49ccb503c5.jpg","https://www.pinterest.com/pin/491173903132983149/","Wood floor with tiled walls"],
+ ["P06","https://i.pinimg.com/736x/22/22/7e/22227e87369c63733a631048827c2f76.jpg","https://www.pinterest.com/pin/6262886975189924/","Warm minimal bath, wood floor, white walls"],
+ ["P07","https://i.pinimg.com/736x/1c/61/d3/1c61d30db194651d5373874dd109efd5.jpg","https://www.pinterest.com/pin/180073685096226764/","Double vanity, freestanding tub centered"],
+ ["P08","https://i.pinimg.com/736x/9a/51/5d/9a515df4c4f80d9babada60589e01cf7.jpg","https://www.pinterest.com/pin/4785143351953705/","Double vanity, walnut slab cabinets"],
+ ["P09","https://i.pinimg.com/736x/0a/81/43/0a81435bfd04051c81c8a1f5e1322bef.jpg","https://www.pinterest.com/pin/133700682679829187/","Blue and green two-tone tile"],
+ ["P10","https://i.pinimg.com/736x/00/fe/6c/00fe6cdf18fcf04a13f1b59932a08cfd.jpg","https://www.pinterest.com/pin/306385580922834404/","Green tile and wood, indoor-outdoor feel"],
+ ["P11","https://i.pinimg.com/736x/b2/94/1c/b2941c91431af07ad31e58799d18f3e9.jpg","https://www.pinterest.com/pin/11962755256804765/","Green tile shower with wood and bench"],
+ ["P12","https://i.pinimg.com/736x/fe/3d/99/fe3d99b6b9e46df07ff75046a8b93506.jpg","https://www.pinterest.com/pin/1130122100250679098/","Double vanity, adjacent walk-in shower"],
+ ["P13","https://i.pinimg.com/736x/4e/27/ef/4e27ef1c76bb7ebac75f551dfba1020a.jpg","https://www.pinterest.com/pin/576179346095157057/","White tub set next to a window"],
+ ["P14","https://i.pinimg.com/736x/ea/00/a2/ea00a2f0f090d46353a1d3ee8941824f.jpg","https://www.pinterest.com/pin/68748657599/","Compact tub / sink / shower plan"],
+ ["P15","https://i.pinimg.com/736x/a6/21/9a/a6219a32ba1029cf6d0dccefe4876b49.jpg","https://www.pinterest.com/pin/920634348880114229/","Patterned rug against green tiled walls"],
+];
+const web = [
+ ["W09","https://onekindesign.com/wp-content/uploads/2016/04/Eichler-Remodel-Klopf-Architecture-24-1-Kindesign.jpg","https://onekindesign.com/eichler-home-california-inspiring-update/","Klopf Eichler update — Heath + Fireclay tile"],
+ ["W09b","https://onekindesign.com/wp-content/uploads/2016/04/Eichler-Remodel-Klopf-Architecture-23-1-Kindesign.jpg","https://onekindesign.com/eichler-home-california-inspiring-update/","Klopf Eichler update — bright tiled bath"],
+ ["W02","https://cdn.shopify.com/s/files/1/0971/1596/3695/files/midcentury-bathroom-Warm-to-Cool-Hexagon-Tile-Bathroom.jpg?v=1772656654","https://www.fireclaytile.com/blog/full/tile-by-style-mod-about-midcentury-bathrooms","Fireclay — ombre hexagon mid-century tile"],
+ ["W02b","https://cdn.shopify.com/s/files/1/0971/1596/3695/files/midcentury-bathroom-Contemporary-Hexite-Tile-Backsplash-in-Antique.jpg?v=1772656648","https://www.fireclaytile.com/blog/full/tile-by-style-mod-about-midcentury-bathrooms","Fireclay — Hexite geometric backsplash"],
+ ["W01","","https://www.fireclaytile.com/blog/full/project-spotlight-honoring-eichler","Fireclay — Honoring Eichler: 4x8 Aqua, straight-set"],
+ ["W04","","https://www.fireclaytile.com/destination-eichler","Fireclay x Destination Eichler tile pairings"],
+ ["W05","","https://www.eichlerhomesforsale.com/blog/the-eichler-bathroom-balancing-vintage-charm-with-modern-expectations","Eichler bathroom guide: brands, fixtures, lighting"],
+ ["W06","","https://www.houzz.com/photos/burlingame-eichler-remodel-by-klopf-architecture-midcentury-bathroom-san-francisco-phvw-vp~119114637","Klopf Architecture — Burlingame Eichler bath (Houzz)"],
+ ["W07","","https://www.dezeen.com/2019/02/06/palo-alto-eichler-remodel-klopf-architecture-silicon-valley/","Dezeen — Klopf Palo Alto Eichler remodel"],
+ ["W08","","https://klopfarchitecture.com/project/mountain-view-eichler-remodel/","Klopf — Mountain View double-gable Eichler"],
+ ["W10","","https://www.atomic-ranch.com/","Atomic Ranch — Eichler restoration & sourcing"],
+ ["W11","","https://www.midcenturyhome.com/","MidCenturyHome — compact mid-century baths"],
+];
+function render(list, elId) {
+  const el = document.getElementById(elId);
+  el.innerHTML = list.map(([tag,img,href,cap]) => {
+    const media = img
+      ? `<img src="${img}" loading="lazy" alt="${cap}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="fallback">Image didn't load — click to open source</div>`
+      : `<div class="fallback" style="display:flex">Open the source page for photos →</div>`;
+    return `<a class="card" href="${href}" target="_blank" rel="noopener">
+      <div class="imgwrap"><span class="tag">${tag}</span>${media}</div>
+      <div class="cap"><b>${tag}</b>${cap}</div></a>`;
+  }).join("");
+}
+render(pins, "pins");
+render(web, "web");
+</script>
+</body>
+</html>
