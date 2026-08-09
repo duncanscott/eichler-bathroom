@@ -28,9 +28,13 @@ Made to order to your exact dimensions, any drain location, curbed or barrier-fr
 Cultured marble is poured to any size and can be made with heavy speckle that reads much closer to terrazzo than Onyx. Sourced from local shops rather than nationally — worth a Bay Area cultured-marble fabricator quote.
 - Example vendor (illustrates the product type): https://www.marblelite.com/shower-pans
 
-### 4. Actual precast / poured terrazzo receptors
-Real terrazzo shower pans exist (historically Fiat, Stern-Williams, Wausau Tile) but come mostly in fixed commercial sizes and are heavy and pricey — a stretch for a residential slab remodel.
-- Background: https://retrorenovation.com/2016/02/22/terrazzo-shower-bases-fiat/
+### 4. One-piece custom terrazzo or terrazzo solid-surface base  ← **now the leading option**
+
+> **Correction (2026-08-09):** an earlier version of this note said real terrazzo pans came "mostly in fixed commercial sizes" and dismissed them. That was wrong. Several fabricators make **genuinely custom, one-piece terrazzo shower bases** with the slope cast in at the factory. See **`custom-terrazzo-shower-bases.md`** for the verified vendors, the epoxy-vs-cement question, and the pre-order checklist.
+
+Short version: **Angelozzi TERRALITE** (100% epoxy terrazzo, custom sizes/shapes, linear "infinity" drains cast directly in), **Creative Industries** (precast cement terrazzo, any size/any color, five threshold styles), and **Grifform** (custom Corian/HI-MACS pans in terrazzo-look colors, slip-resistant finish available). A one-piece base gives the monolithic mid-century look with **no grout joints at all** — arguably more architecturally correct for an Eichler than tile.
+
+- Historical background: https://retrorenovation.com/2016/02/22/terrazzo-shower-bases-fiat/
 
 ## Practical notes for the Eichler
 
