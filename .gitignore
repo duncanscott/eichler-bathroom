@@ -4,3 +4,12 @@
 # Everything outside docs/ (including the archived MLS listing photos in
 # master-bath-inspiration-2/lancashire/photos/) is version-controlled but
 # never served publicly. This repo is private.
+
+# Staging area for files the cloud sandbox can't delete itself — safe to remove.
+_to_delete/
+
+# Browser "Save Page As -> Webpage, Complete" artifacts.
+# Redundant here: master-bath-inspiration-2/lancashire/ already holds all 86 MLS
+# photos at full size, plus listing.md (full page text) and gallery.html.
+*_files/
+/1279 Lancashire Dr*.html
