@@ -1,1 +1,9 @@
 /.idea/
+
+# Archived MLS listing photos (1279 Lancashire Dr, MLS #41144292).
+# Kept locally as private design reference only. NOT committed, because this
+# repo is public and GitHub Pages serves every file in it — these are
+# watermarked, copyrighted MLS images (CCAR / Bay East / bridgeMLS).
+# Re-create them any time with: bash master-bath-inspiration-2/lancashire/download-photos.sh
+master-bath-inspiration-2/lancashire/photos/
+master-bath-inspiration-2/lancashire/*.jpg
