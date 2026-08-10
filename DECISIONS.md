@@ -53,11 +53,31 @@ Handmade encaustic **cement** tile, 2″×8″ subway, **5/8″ thick**, Saguaro
 
 ---
 
+## Vanity — leading candidate: MonkeHaus floating vanity
+
+**Candidate (2026-08-09), not yet decided:** https://monkehaus.com/products/single-sink-floating-vanity
+
+Wall-mounted floating single-sink vanity, made to order. **36″ (one sink, one drawer bank) $2,000** · **50″ (one sink, two drawer banks) $2,900**. Custom sizing available; longer versions ship in sections. Species: **walnut, teak, mahogany, cherry, white oak, maple, birch**. Two finishes — factory matte, or hand-applied wax/oil. Undermount soft-close slides.
+
+**Why it fits:** floating, flat slab fronts, and a species list that includes both walnut and teak — exactly the language identified across the inspiration board and built in the Lancashire reference bath. Custom sizing matters in a compact Eichler bath, where a vanity running wall-to-wall is what makes the room feel resolved.
+
+**Scope warning — the price is cabinet only.** Explicitly **not included: sink, countertop, faucet, plumbing, knobs or pulls**, or installation. Budget those separately and make sure any bid states who supplies them; comparing this $2,000–$2,900 figure against an all-in vanity quote is misleading.
+
+**To resolve before ordering:**
+
+- **Species and finish.** Note the Lancashire reference bath used custom *bamboo*, not walnut, for the same look — worth sampling both against a Saguaro green tile sample, since green shifts warm woods noticeably.
+- **Width**, once the room is measured. Prefer a counter running wall-to-wall over a freestanding-looking box.
+- **Countertop and integrated sink** — a wall-to-wall counter with an integrated basin is the detail that makes the reference baths work.
+- **Pulls** — small round recessed pulls match the period direction; these are not supplied.
+- **Lead time** — not published; ask. The tile is already 10–12 weeks, so this needs to be known before sequencing.
+
+---
+
 ## Still open
 
 - **Rough opening dimensions and existing drain location** — must be measured stud-to-stud before any custom base can be ordered. This is the current blocker on pricing.
 - **Curbless vs. curbed entry** — curbless requires recessing the slab; decide early, it drives demo and framing.
-- **Vanity** — direction is floating wood with flat slab fronts, continuous grain, and small round recessed pulls; species and maker not chosen. Note that the Lancashire reference house used custom *bamboo*, not walnut, for exactly this look.
+- **Vanity** — leading candidate identified (MonkeHaus, above); **species, width, finish, countertop, sink and pulls still unchosen.**
 - ~~**Wall tile colour**~~ — **resolved**: green, via Zia "Saguaro" 2×8 cement tile (see above).
 - **Terrazzo aggregate and background colour** — needs to be chosen *against a Saguaro green sample*, not in isolation. Target a warm light base with sparse aggregate that sits quietly under the green rather than competing with it.
 - **Order sequencing** — the tile is a 10–12 week special order and the pan is custom-cast; both should be committed at the same time.
