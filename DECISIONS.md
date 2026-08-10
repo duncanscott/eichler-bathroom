@@ -27,12 +27,40 @@ Last updated: August 9, 2026.
 
 ---
 
+## Shower wall tile — PREFERRED: Zia Tile "Saguaro" 2×8 cement tile
+
+**Selection (2026-08-09):** https://ziatile.com/products/saguaro-2x8-cement-tile
+
+Handmade encaustic **cement** tile, 2″×8″ subway, **5/8″ thick**, Saguaro green, matte. **$15.85/sq ft** ($83.68 per 48-tile box = 5.28 sq ft). **Special order, 10–12 weeks to ship.**
+
+**Why it fits:**
+
+- It supplies the single saturated period colour the whole scheme is built around, which resolves the open wall-colour question in favour of green.
+- **2×8 set straight (not stacked) is the period-honest Eichler move** — the same gesture Fireclay used in their "Honoring Eichler" project, which chose 4×8 straight-set specifically as a nod to how mid-century tile was actually laid. Ask the installer for a straight set, not a running bond or stack.
+- Matte handmade cement has depth and slight irregularity that reads mid-century rather than contemporary.
+- Zia lists it as suitable for **shower walls and floors**, and it is **radiant-heating compatible**.
+- Slip is a non-issue: **DCOF > 1**, far above the ANSI A326.3 minimum of 0.42.
+
+**Scope: walls only.** Use this on the shower walls, not the shower floor. The floor and pan stay terrazzo per the decision above — the composition is a saturated green wall against a quiet light terrazzo floor, and putting cement tile underfoot would both muddy that and duplicate the pan.
+
+**Conditions to plan around — these are real, not fine print:**
+
+1. **Cement tile is porous and must be sealed on site.** Zia's own instructions: 511 Porous Plus Sealer *before* grouting, then Fila Matte Finish Protective Wax for interiors. This is not optional in a shower, and it is a maintenance commitment, not a one-time step.
+2. **10–12 week lead time, special order.** Combined with a custom-cast terrazzo pan (also weeks), tile and pan should be ordered at the same time or the schedule will stall. This is now the long pole.
+3. **5/8″ is thick** — roughly double typical porcelain. It affects wall build-out, niche depth, trim and edge details, and how the wall meets the pan. Confirm with the fabricator when specifying the base.
+4. **Installation is not routine.** Zia calls for experienced installation and **3–5 days of curing between laying, sealing, and grouting**. Confirm the installer has done cement tile before, and price the cure time into the schedule.
+5. **Order attic stock.** Handmade cement tile varies batch to batch; a later repair from a different run will not match.
+
+---
+
 ## Still open
 
 - **Rough opening dimensions and existing drain location** — must be measured stud-to-stud before any custom base can be ordered. This is the current blocker on pricing.
 - **Curbless vs. curbed entry** — curbless requires recessing the slab; decide early, it drives demo and framing.
 - **Vanity** — direction is floating wood with flat slab fronts, continuous grain, and small round recessed pulls; species and maker not chosen. Note that the Lancashire reference house used custom *bamboo*, not walnut, for exactly this look.
-- **Wall tile colour** — leaning to one saturated period colour (green or blue) against an otherwise calm envelope; not selected.
+- ~~**Wall tile colour**~~ — **resolved**: green, via Zia "Saguaro" 2×8 cement tile (see above).
+- **Terrazzo aggregate and background colour** — needs to be chosen *against a Saguaro green sample*, not in isolation. Target a warm light base with sparse aggregate that sits quietly under the green rather than competing with it.
+- **Order sequencing** — the tile is a 10–12 week special order and the pan is custom-cast; both should be committed at the same time.
 
 ---
 
