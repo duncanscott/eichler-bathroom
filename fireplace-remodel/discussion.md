@@ -1,6 +1,6 @@
 # Fireplace Remodel — Reconstructed Project Discussion
 
-Recorded September 10, 2026. [Return to the illustrated report](README.md).
+Recorded September 10, 2026. [Return to the illustrated report](README.md). The public owner and designer conversations about tiling an Eichler fireplace are re-created separately in [owner-discussions.md](owner-discussions.md).
 
 This reconstructs the relevant exchange in this Codex task. The user's messages below are verbatim. The assistant's answer is condensed from the earlier response; it is not a verbatim chat export. The published owners' accounts are separately paraphrased and linked in the report. No dialogue has been invented or attributed to homeowners, designers, or contractors.
 
