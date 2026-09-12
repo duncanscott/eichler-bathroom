@@ -16,6 +16,7 @@ It is built by GitHub Pages from the **`docs/`** folder only. Everything else in
 |---|---|
 | **[DECISIONS.md](DECISIONS.md)** | What's actually been **decided** vs. what's still open. Read this first — the research folders deliberately present options, this file says which way we're going. |
 | [docs/index.html](docs/index.html) | Source of the published contractor page. |
+| [window-coverings/](window-coverings/) | Typical Eichler window coverings: period evidence, owner discussions, practical recommendations, and a sourced image collection. |
 | [fireplace-remodel/](fireplace-remodel/) | Tiled Eichler fireplace references (26 downloaded source photos), before-and-after remodel accounts, the reconstructed project discussion, and what owners and designers say about tiling over Eichler brick. |
 | [master-bath-inspiration-2/](master-bath-inspiration-2/) | Second research pass: material notes, vendors, and the listing archive. |
 | [master-bath-inspiration/](master-bath-inspiration/) | First research pass: 19 curated reference images with notes. |
