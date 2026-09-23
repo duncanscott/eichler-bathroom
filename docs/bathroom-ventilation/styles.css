@@ -61,6 +61,8 @@ small,.small{font-size:.83rem;line-height:1.5}
 .model .links{display:flex;flex-wrap:wrap;gap:15px;font-size:.84rem;margin-top:22px}
 .note{border-left:3px solid var(--wood);background:#ede9df;padding:18px 22px;margin-top:24px;font-size:.9rem}
 .note p:last-child{margin:0}
+.note ul{margin:12px 0;padding-left:20px}
+.note li{margin-bottom:8px}
 .source-line{font-size:.78rem;color:var(--muted);margin-top:17px}
 .diagram-panel{background:var(--card);border:1px solid var(--line);padding:26px;border-radius:4px}
 .diagram-panel img{width:100%;max-height:570px}

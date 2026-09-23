@@ -11,7 +11,7 @@
     "file": "code-reference/California-2025-CF2R-MCH-27-H-ventilation.pdf",
     "title": "2025 CEC ventilation compliance form",
     "category": "code",
-    "note": "CF2R-MCH-27-H · Sound criteria and remote-fan exception, page 6.",
+    "note": "CF2R-MCH-27-H · §7.1 rating requirement, §7.3 remote-fan sound exception and §7.3.2 sone limits, page 6.",
     "bytes": 646349,
     "sha256": "1e5f2c1c5bf12ef5a7eae46f7712032ec93f91e35dda8f2ad36c3ab6770e2f69"
   },
@@ -59,7 +59,7 @@
     "file": "spec-sheets/Broan-L100E-L300E-specifications.pdf",
     "title": "Broan L100E–L300E specifications",
     "category": "alternatives",
-    "note": "L100E dimensions and HVI vertical-discharge ratings. Title 24 suitability remains unresolved.",
+    "note": "L100E dimensions and HVI-2100 certified vertical-discharge ratings — the evidence for §7.1, §7.3.2 and §5.2. Broan’s product-page Title 24 entry is still unexplained.",
     "bytes": 922185,
     "sha256": "098f94dd770b48e0eff184bd2336f4247faca934d3daf8789e4468e7ff98193b"
   },
@@ -83,7 +83,7 @@
     "file": "spec-sheets/Fantech-RE-REC-detailed-performance-2008.pdf",
     "title": "RE / REC detailed air & sound performance",
     "category": "fantech",
-    "note": "2008 · Historical AMCA data; not an HVI bathroom sound rating.",
+    "note": "2008 · Historical AMCA data. Not a certified rating under §7.1, and not an HVI bathroom sound rating.",
     "bytes": 264068,
     "sha256": "8d48df3062bae8b5e22db2a8bc17418b0094dce1158d21f4ad430434c86cc8ac"
   },
@@ -99,7 +99,7 @@
     "file": "spec-sheets/Fantech-RE-REC-submittal-2007.pdf",
     "title": "RE / REC historical submittal",
     "category": "fantech",
-    "note": "2007 · Historical ENERGY STAR claim. Use the 2021 manual for dimensions.",
+    "note": "2007 · Historical ENERGY STAR claim; not evidence of a current certified rating under §7.1. Use the 2021 manual for dimensions.",
     "bytes": 82482,
     "sha256": "319faa1a85d74129d01c6b8f4af2fd54b6ee6fbb96a208bf3c9143e405c758e2"
   },
@@ -180,8 +180,8 @@
     "title": "Full bathroom ventilation research",
     "category": "notes",
     "note": "Fan comparison, existing-opening implications, roof options and unresolved requirements.",
-    "bytes": 33481,
-    "sha256": "cb2fd55d3c76296b593660d8019b1954ac02c93411802a80a4242d4edd27c2c9"
+    "bytes": 35187,
+    "sha256": "96f4a62c8e27e75e6e4fa298f362a86866da9f4dc95b438ba75a5e2308d9ed1d"
   },
   {
     "file": "ceiling-grilles.md",
@@ -204,8 +204,8 @@
     "title": "Contractor questions — printable text",
     "category": "notes",
     "note": "Six questions to coordinate the roofer and ventilation/electrical installer.",
-    "bytes": 2536,
-    "sha256": "eaf913c44b04fb207a86a1dd2ecb121c2c226c2693e12227448b40d54b96cd28"
+    "bytes": 3018,
+    "sha256": "114fd5cc0020f0ee5a5e561605cdb0a4d7d20b476cae879178621249a1de1693"
   },
   {
     "file": "photos/README.md",

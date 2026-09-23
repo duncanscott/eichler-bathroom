@@ -46,8 +46,8 @@ META = {
     "Fantech-commercial-accessories-curbs.pdf": ("fantech", "Fantech roof curb specifications — 5ACC15FS", "Undated catalog excerpt · PDF page 1 (printed page 272) lists 5ACC15FS, item 49580, for REC54 / REC6. Catalog prices are historical."),
     "Fantech-RE-REC-installation.pdf": ("fantech", "RE / REC installation manual", "2021 revision · Curb / pitched-roof arrangements, dimensions and wiring. Start here."),
     "Fantech-RE-REC-brochure-performance-2010.pdf": ("fantech", "RE / REC brochure & airflow curves", "2010 · REC54 performance and typical applications; shared RE / REC series document."),
-    "Fantech-RE-REC-detailed-performance-2008.pdf": ("fantech", "RE / REC detailed air & sound performance", "2008 · Historical AMCA data; not an HVI bathroom sound rating."),
-    "Fantech-RE-REC-submittal-2007.pdf": ("fantech", "RE / REC historical submittal", "2007 · Historical ENERGY STAR claim. Use the 2021 manual for dimensions."),
+    "Fantech-RE-REC-detailed-performance-2008.pdf": ("fantech", "RE / REC detailed air & sound performance", "2008 · Historical AMCA data. Not a certified rating under §7.1, and not an HVI bathroom sound rating."),
+    "Fantech-RE-REC-submittal-2007.pdf": ("fantech", "RE / REC historical submittal", "2007 · Historical ENERGY STAR claim; not evidence of a current certified rating under §7.1. Use the 2021 manual for dimensions."),
     "405262_RE_C__OIPM_EN_20190426_185331269.pdf": ("fantech", "RE / REC manual — original-filename copy", "Additional project download. Identical contents to the 2021 installation manual; retained so every downloaded file is linked."),
     "Fantech-CG-grilles-specifications-2005.pdf": ("grilles", "Fantech CG grille specifications", "2005 · CG5 / CG45 dimensions, materials, pressure and noise curves."),
     "Fantech-accessories-catalog-2004.pdf": ("grilles", "Fantech accessories catalog", "2004 · MGE5 dimensions on page 3. Confirm current dimensions before fabrication."),
@@ -58,12 +58,12 @@ META = {
     "Panasonic-FV-0510VS1-submittal.pdf": ("alternatives", "Panasonic FV-0510VS1 specifications", "Shallow indoor fan · 3⅜-inch body; compact and elongated enclosure layouts require measured dimensions."),
     "Panasonic-FV-0510VS1-installation.pdf": ("alternatives", "Panasonic FV-0510VS1 installation manual", "WhisperValue installation and duct details."),
     "Panasonic-FV-0510VS1-service.pdf": ("alternatives", "Panasonic FV-0510VS1 service manual & grille part", "Version 2502 · PDF page 6, item 9 identifies FFV3400146S Louver Assy; exploded mounting drawing on page 3."),
-    "Broan-L100E-L300E-specifications.pdf": ("alternatives", "Broan L100E–L300E specifications", "L100E dimensions and HVI vertical-discharge ratings. Title 24 suitability remains unresolved."),
+    "Broan-L100E-L300E-specifications.pdf": ("alternatives", "Broan L100E–L300E specifications", "L100E dimensions and HVI-2100 certified vertical-discharge ratings — the evidence for §7.1, §7.3.2 and §5.2. Broan’s product-page Title 24 entry is still unexplained."),
     "Broan-L100E-L300E-installation.pdf": ("alternatives", "Broan L100E–L300E installation manual", "Top-outlet conversion and on/off control, page 8. No custom rooftop enclosure detail."),
     "Broan-504-505-specifications.pdf": ("alternatives", "Broan 504 / 505 specifications", "Utility-fan reference · Model 505 is not listed over tubs/showers; see the published sound data."),
     "Broan-504-505-installation.pdf": ("alternatives", "Broan 504 / 505 installation manual", "Retained for completeness of the original fan comparison."),
     "California-2025-CALGreen-residential-checklist.pdf": ("code", "2025 CALGreen residential checklist", "California HCD · Bathroom ventilation requirements at §4.506.1, page 12."),
-    "California-2025-CF2R-MCH-27-H-ventilation.pdf": ("code", "2025 CEC ventilation compliance form", "CF2R-MCH-27-H · Sound criteria and remote-fan exception, page 6."),
+    "California-2025-CF2R-MCH-27-H-ventilation.pdf": ("code", "2025 CEC ventilation compliance form", "CF2R-MCH-27-H · §7.1 rating requirement, §7.3 remote-fan sound exception and §7.3.2 sone limits, page 6."),
     "ENERGY-STAR-ventilating-fans-historical-list.pdf": ("code", "Historical ENERGY STAR fan list", "EPA · January 9, 2009. Historical evidence, not proof of current certification."),
     "README.md": ("notes", "Full bathroom ventilation research", "Fan comparison, existing-opening implications, roof options and unresolved requirements."),
     "ceiling-grilles.md": ("notes", "Ceiling grille comparison & installation notes", "Product links, archived price observations, fit calculations and source limitations."),
@@ -129,9 +129,11 @@ def main():
              "Contractor discussion brief | Updated: September 23, 2026\n\n"
              "Compare compact covers with exposed duct, elongated enclosures with concealed duct,\n"
              "exterior fans with ceiling grilles, and an indoor fan in a custom rooftop enclosure.\n"
-             "Broan L100E remains an option with a potentially serious compliance problem:\n"
-             "Broan lists Title 24 compatibility as No, although it is ENERGY STAR certified.\n"
-             "Resolve model, control and enclosure suitability with Broan and the permitting authority.\n"
+             "Broan L100E remains an option. Its published HVI-2100 ratings meet the criteria in\n"
+             "the 2025 CEC form (§7.1 rating, §7.3.2 sound, §5.2 airflow), but Broan’s product page\n"
+             "still marks Title 24 compatibility as No; ask Broan to explain that entry in writing.\n"
+             "For the Fantech REC54 the open question is a current certified rating under §7.1,\n"
+             "which ranks ahead of ENERGY STAR status.\n"
              "Layout and fabrication details remain open.\n"
              "Known: no attic; tongue-and-groove ceiling directly below a flat roof;\n"
              "Panasonic FV-0511VQ1 already installed, per owner; projection unmeasured.\n"

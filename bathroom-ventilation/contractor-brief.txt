@@ -3,9 +3,11 @@ Contractor discussion brief | Updated: September 23, 2026
 
 Compare compact covers with exposed duct, elongated enclosures with concealed duct,
 exterior fans with ceiling grilles, and an indoor fan in a custom rooftop enclosure.
-Broan L100E remains an option with a potentially serious compliance problem:
-Broan lists Title 24 compatibility as No, although it is ENERGY STAR certified.
-Resolve model, control and enclosure suitability with Broan and the permitting authority.
+Broan L100E remains an option. Its published HVI-2100 ratings meet the criteria in
+the 2025 CEC form (§7.1 rating, §7.3.2 sound, §5.2 airflow), but Broan’s product page
+still marks Title 24 compatibility as No; ask Broan to explain that entry in writing.
+For the Fantech REC54 the open question is a current certified rating under §7.1,
+which ranks ahead of ENERGY STAR status.
 Layout and fabrication details remain open.
 Known: no attic; tongue-and-groove ceiling directly below a flat roof;
 Panasonic FV-0511VQ1 already installed, per owner; projection unmeasured.
@@ -20,10 +22,10 @@ Provide comparable finish samples or mock-ups: exposed duct seams and supports, 
 Detail sealed fan flange and duct joints, roof air sealing, condensation control and backdraft protection. Show any insulation and finished jacket needed at cold duct sections, including their outer dimensions. Provide cover inspection access and dry materials before closure.
 
 3. What is the sound-compliance route?
-For Panasonic layouts, assess rated sound at the selected airflow, duct resistance and vibration at supports. For the Fantech roof-fan layout, confirm sound data and the actual grille-to-fan duct length, including the 4-foot condition if using the remote-fan exception.
+For Panasonic layouts, assess rated sound at the selected airflow, duct resistance and vibration at supports. For the Fantech roof-fan layout, confirm sound data and the actual grille-to-fan duct length, including the 4-foot condition if using the remote-fan exception — which waives sound ratings only, not the §7.1 airflow rating.
 
-4. Is the exact unit currently certified?
-Obtain current model/item-specific ENERGY STAR evidence and confirm the permit’s ventilation requirements with the city or county authority.
+4. Does the exact unit hold a current certified rating?
+§7.1 asks for airflow and sound ratings from a body accredited to ISO/IEC 17065 applying HVI 920 or equivalent — not a manufacturer’s own AMCA curve. Obtain model-specific evidence of that rating, plus current ENERGY STAR status, and confirm the permit’s ventilation requirements with the City of Concord. For the L100E, also ask Broan in writing to explain its “Title 24: No” product-page entry.
 
 5. Which controls and electrical details?
 Specify humidity control, user operation, wiring route, and service access. Confirm the manufacturer’s tub/shower and GFCI requirements for this arrangement.
