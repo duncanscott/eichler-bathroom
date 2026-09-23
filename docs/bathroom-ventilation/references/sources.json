@@ -47,7 +47,10 @@
     "retrieved_utc": "2026-09-22T21:55:56.410043+00:00",
     "bytes": 922185,
     "sha256": "098f94dd770b48e0eff184bd2336f4247faca934d3daf8789e4468e7ff98193b",
-    "pages": 6
+    "pages": 6,
+    "related_product_page": "https://broan-nutone.com/en-us/product/ventilationfans/l100e",
+    "product_page_checked": "2026-09-23",
+    "product_page_qualification": "ENERGY STAR certified: Yes; Humidity Sensing: No; Can Be Used To Comply With Title 24: No. Resolve project suitability with Broan and the permitting authority."
   },
   {
     "file": "spec-sheets/Broan-L100E-L300E-installation.pdf",

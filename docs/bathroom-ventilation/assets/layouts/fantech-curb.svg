@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+<title id="title">Fantech REC54 on a curb with a direct connection</title><desc id="desc">Conceptual side section, not to scale. An exterior fan on a flashed roof curb connects directly to a separate ceiling grille through a short sealed duct.</desc>
+<defs>
+  <pattern id="wood" width="32" height="12" patternUnits="userSpaceOnUse"><rect width="32" height="12" fill="#be936e"/><path d="M0 0v12M7 6h16" stroke="#966e4e" stroke-width="1"/></pattern>
+  <pattern id="insulation" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#e3dac0"/><path d="m0 8 8-8" stroke="#c3b591" stroke-width="1"/></pattern>
+  <marker id="air" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="4" markerHeight="4" orient="auto"><path d="m0 0 8 4-8 4" fill="#427365"/></marker>
+</defs>
+<rect width="320" height="180" rx="5" fill="#edf0e7"/>
+<rect y="115" width="320" height="65" fill="#f6f3ec"/>
+<path d="M16 103H143v12H16ZM178 103H304v12H178Z" fill="url(#wood)"/><path d="M16 102H143M178 102H304" stroke="#687c6c" stroke-width="3"/>
+<path d="M121 103V79h79v24" fill="#e3dac0" stroke="#748570" stroke-width="3"/><path d="M143 115V76h35v39" fill="#fffcf7" stroke="#627865" stroke-width="2"/><path d="M106 103h15V88m79 0v15h15" fill="none" stroke="#687c6c" stroke-width="3"/><rect x="110" y="75" width="101" height="7" fill="#627865"/><path d="M127 72V57q0-19 34-19t34 19v15" fill="#cdd6ca" stroke="#627865" stroke-width="2"/><ellipse cx="161" cy="56" rx="34" ry="10" fill="#dce2d8" stroke="#627865" stroke-width="2"/><path d="M125 70q36 11 72 0v6q-36 11-72 0Z" fill="#48634f"/><rect x="131" y="116" width="58" height="6" rx="1" fill="#fffcf7" stroke="#647a6b" stroke-width="1.5"/><path d="M136 119h48" stroke="#647a6b" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M160 160v-30m0-21V90m-38-23H96m106 0h26" fill="none" stroke="#427365" stroke-width="2.5" marker-end="url(#air)"/>
+</svg>

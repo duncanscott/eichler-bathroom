@@ -2,7 +2,7 @@
 
 Running record of what's been *decided*, as opposed to the research in `master-bath-inspiration/` and `master-bath-inspiration-2/`, which deliberately presents options. Contractors and future readers should treat anything here as settled unless it says otherwise.
 
-Last updated: August 9, 2026.
+Last updated: September 23, 2026.
 
 ---
 
@@ -73,8 +73,22 @@ Wall-mounted floating single-sink vanity, made to order. **36″ (one sink, one 
 
 ---
 
+## Bathroom ventilation — OPEN
+
+**Status (2026-09-23):** compare the available layouts without an indicated preference:
+
+- **Compact indoor fan cover with exposed custom ductwork.** Evaluate the installed Panasonic FV-0511VQ1 or shallow FV-0510VS1, with a finished local cover and separately fabricated visible duct.
+- **Elongated indoor enclosure with concealed ductwork.** Enclose the fan and duct together, sizing the soffit for the equipment, bend, framing, finish and service access.
+- **Exterior roof fan with a ceiling grille.** Evaluate Fantech REC54 on a flashed curb for the flat roof, with an indoor grille. Consider the direct, short connection first, followed by an extended rooftop duct route.
+- **Indoor fan inside a custom rooftop enclosure.** Retain the Broan L100E for comparison, with a potentially serious compliance problem: Broan lists ENERGY STAR certification but marks Title 24 compatibility “No.” Resolve the exact model, controls and custom enclosure with Broan and the permitting authority before selection or fabrication. It is not marked as excluded.
+
+Layout selection, material, finish, dimensions, duct geometry, mounting, insulation, service access, delivered airflow, sound, cost and final construction details remain open. See [bathroom ventilation research](bathroom-ventilation/README.md) and the [site source](docs/bathroom-ventilation/index.html).
+
+---
+
 ## Still open
 
+- **Ventilation layout and fabrication** — compare exposed duct, enclosed duct, exterior-fan and rooftop-enclosure arrangements; measurements, material/finish, mounting, insulation, performance and pricing remain open.
 - **Rough opening dimensions and existing drain location** — must be measured stud-to-stud before any custom base can be ordered. This is the current blocker on pricing.
 - **Curbless vs. curbed entry** — curbless requires recessing the slab; decide early, it drives demo and framing.
 - **Vanity** — leading candidate identified (MonkeHaus, above); **species, width, finish, countertop, sink and pulls still unchosen.**

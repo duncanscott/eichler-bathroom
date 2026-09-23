@@ -43,7 +43,7 @@
     "file": "spec-sheets/Broan-504-505-specifications.pdf",
     "title": "Broan 504 / 505 specifications",
     "category": "alternatives",
-    "note": "Rejected candidate · Excessive sound; not the recommended shower solution.",
+    "note": "Utility-fan reference · Model 505 is not listed over tubs/showers; see the published sound data.",
     "bytes": 90172,
     "sha256": "c0fe07c7b741b1479899026ff0bed3dfd381ee4d1170caa66e40d8d1b253edbd"
   },
@@ -51,7 +51,7 @@
     "file": "spec-sheets/Broan-L100E-L300E-installation.pdf",
     "title": "Broan L100E–L300E installation manual",
     "category": "alternatives",
-    "note": "Top-outlet conversion; indoor fan housing still needs a protected enclosure.",
+    "note": "Top-outlet conversion and on/off control, page 8. No custom rooftop enclosure detail.",
     "bytes": 3568837,
     "sha256": "2b6e36f686b39c6c00b53d940d6499596b04634cb9ea112ce8ff5d7d8da57937"
   },
@@ -59,7 +59,7 @@
     "file": "spec-sheets/Broan-L100E-L300E-specifications.pdf",
     "title": "Broan L100E–L300E specifications",
     "category": "alternatives",
-    "note": "Includes L100E vertical-outlet airflow and sound ratings.",
+    "note": "L100E dimensions and HVI vertical-discharge ratings. Title 24 suitability remains unresolved.",
     "bytes": 922185,
     "sha256": "098f94dd770b48e0eff184bd2336f4247faca934d3daf8789e4468e7ff98193b"
   },
@@ -75,7 +75,7 @@
     "file": "spec-sheets/Fantech-RE-REC-brochure-performance-2010.pdf",
     "title": "RE / REC brochure & airflow curves",
     "category": "fantech",
-    "note": "2010 · RE54 / REC54 performance and typical applications.",
+    "note": "2010 · REC54 performance and typical applications; shared RE / REC series document.",
     "bytes": 1162505,
     "sha256": "f55ed5947f87e9760174996887fa5debc51f007c40dd37731ca92ac35d446275"
   },
@@ -147,7 +147,7 @@
     "file": "spec-sheets/Panasonic-FV-0510VS1-submittal.pdf",
     "title": "Panasonic FV-0510VS1 specifications",
     "category": "alternatives",
-    "note": "Proposed indoor soffit · 3⅜-inch fan body; enclosure also needs space for the side duct.",
+    "note": "Shallow indoor fan · 3⅜-inch body; compact and elongated enclosure layouts require measured dimensions.",
     "bytes": 1123325,
     "sha256": "ff585fa7254a398cfe71ef5301d73b9f587f421dcab58d88ba6463c757a8bd20"
   },
@@ -180,31 +180,55 @@
     "title": "Full bathroom ventilation research",
     "category": "notes",
     "note": "Fan comparison, existing-opening implications, roof options and unresolved requirements.",
-    "bytes": 26993,
-    "sha256": "5d91410fbfbf8b2af7248524d51e9560228166470503e7ee4c24950f92db3796"
+    "bytes": 33481,
+    "sha256": "cb2fd55d3c76296b593660d8019b1954ac02c93411802a80a4242d4edd27c2c9"
   },
   {
     "file": "ceiling-grilles.md",
     "title": "Ceiling grille comparison & installation notes",
     "category": "notes",
     "note": "Product links, archived price observations, fit calculations and source limitations.",
-    "bytes": 6953,
-    "sha256": "8e0fdccdf3a67b29b4654d1881548f38a75bc3f21e68eb798fb083fcf61802b8"
+    "bytes": 7472,
+    "sha256": "5d341c941ff6e696c8497f378901b946dc2802550dd96a336addc8b1cb2f9b4d"
   },
   {
     "file": "sources.json",
     "title": "Original document source record",
     "category": "notes",
     "note": "Download URLs, retrieval timestamps and verification data; includes the unsuccessful county-handout download.",
-    "bytes": 12540,
-    "sha256": "bc8db41098da976871378d741bad1a4c9b428e67214b7f8016d57e442b632a6e"
+    "bytes": 12871,
+    "sha256": "c257c6b6cb8715c11fd0770d83457e5a59d9a8ecf3727e80ae765260239c7412"
   },
   {
     "file": "contractor-brief.txt",
     "title": "Contractor questions — printable text",
     "category": "notes",
-    "note": "Ten questions to coordinate the roofer and ventilation/electrical installer.",
-    "bytes": 2762,
-    "sha256": "78f25489ab10c8173a0ecf7e6d189ea394a96b5cb44f9cfbd9df0b05b1a5f1e4"
+    "note": "Six questions to coordinate the roofer and ventilation/electrical installer.",
+    "bytes": 2536,
+    "sha256": "eaf913c44b04fb207a86a1dd2ecb121c2c226c2693e12227448b40d54b96cd28"
+  },
+  {
+    "file": "photos/README.md",
+    "title": "Existing installation — photo observations",
+    "category": "notes",
+    "note": "Owner-supplied photo: visible fan, side duct and framing; implications and remaining measurements.",
+    "bytes": 3023,
+    "sha256": "8fb3b506a4df1a2804bc7958acdaccae1ffb573a3c00aba457125f21930e8e4a"
+  },
+  {
+    "file": "photos/existing-installation-IMG_3828.jpg",
+    "title": "Existing installation — viewing photo",
+    "category": "notes",
+    "note": "JPEG viewing copy of the owner’s photo, supplied September 23, 2026. No crop or retouching.",
+    "bytes": 1967936,
+    "sha256": "d36062744126f6c1c62c664c895fcb63c2f79f6885753726565689c8db9c160a"
+  },
+  {
+    "file": "photos/existing-installation-IMG_3828.HEIC",
+    "title": "Existing installation — original photo",
+    "category": "notes",
+    "note": "Unchanged HEIC original. Download if your browser cannot display this format.",
+    "bytes": 1494614,
+    "sha256": "92d9a6da8ceab5ff55f43786e913e3f0e6ba8e105add9e633f1e1e31614a4e3f"
   }
 ]

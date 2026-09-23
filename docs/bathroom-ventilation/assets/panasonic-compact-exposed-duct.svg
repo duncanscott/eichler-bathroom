@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="590" viewBox="0 0 1080 590" role="img" aria-labelledby="title desc">
+  <title id="title">Compact Panasonic fan enclosure with exposed custom duct</title>
+  <desc id="desc">One design option, not to scale: a small enclosure surrounds the FV-0510VS1 and its connection, with the original grille beneath. Smooth fabricated duct remains visible from the side outlet to an upward roof connection. There is no continuous soffit around the duct. Final dimensions, duct section, supports, finish, insulation and roof details remain to be designed.</desc>
+  <defs>
+    <pattern id="wood" width="60" height="24" patternUnits="userSpaceOnUse"><rect width="60" height="24" fill="#bd926e"/><path d="M0 22H60M8 8H40" stroke="#a57a58" stroke-width="1"/></pattern>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 8 4 0 8Z" fill="#31594c"/></marker>
+  </defs>
+  <rect width="1080" height="590" rx="4" fill="#fffcf7"/>
+  <g font-family="Arial, sans-serif" fill="#243e37">
+    <text x="36" y="35" font-size="14" letter-spacing="1.5">COMPACT-COVER OPTION · SIDE SECTION · NOT TO SCALE</text>
+    <text x="36" y="81" font-size="20" font-weight="bold">Compact fan cover + visible finished duct</text>
+    <text x="36" y="109" font-size="16" fill="#596861">Light finish shown for discussion; material and colour remain open.</text>
+    <text x="716" y="80" font-size="17" font-weight="bold">Roof termination</text>
+    <text x="716" y="106" font-size="15" fill="#596861">Verify flashing and existing opening.</text>
+    <path d="M48 156H811V183H48ZM889 156H1032V183H889Z" fill="#dfe5d7"/>
+    <path d="M48 183H811V210H48ZM889 183H1032V210H889Z" fill="url(#wood)"/>
+    <path d="M48 155H811M889 155H1032" stroke="#567668" stroke-width="4"/>
+    <text x="458" y="179" font-size="13" fill="#596861">Existing roof layers: verify on site</text>
+    <path d="M93 210V354H401V210" fill="#eeeae1" stroke="#a9b4a4" stroke-width="3"/>
+    <path d="M111 215V345M366 215V254" stroke="#ab7f5c" stroke-width="13"/>
+    <rect x="133" y="229" width="212" height="115" rx="3" fill="#dbe2d7" stroke="#627c6e" stroke-width="2"/>
+    <circle cx="235" cy="283" r="31" fill="#f5f5ed" stroke="#8a9e8d" stroke-width="2"/>
+    <path d="M227 257Q268 277 233 289Q207 305 222 319" fill="none" stroke="#8a9e8d" stroke-width="5"/>
+    <path d="M345 292H774Q850 292 850 216V143" fill="none" stroke="#728778" stroke-width="72"/>
+    <path d="M345 292H774Q850 292 850 216V143" fill="none" stroke="#f4f3ed" stroke-width="66"/>
+    <path d="M379 257V327M409 257V327" stroke="#8e9d8b" stroke-width="2"/>
+    <path d="M525 212V255M708 212V255" stroke="#869881" stroke-width="4"/>
+    <path d="M518 255H532M701 255H715" stroke="#869881" stroke-width="4"/>
+    <path d="M454 292H625M686 292H775M850 242V183" fill="none" stroke="#31594c" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M809 153V137H891V153M803 136 815 122H885L897 136Z" fill="#ccd7c7" stroke="#567668" stroke-width="2"/>
+    <path d="M828 123 820 113M872 123 880 113" stroke="#31594c" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="111" y="348" width="270" height="17" fill="#fafaf6" stroke="#708574" stroke-width="2"/>
+    <path d="M127 356H145M158 356H176M189 356H207M220 356H238M251 356H269M282 356H300M313 356H331M344 356H362" stroke="#8a9b86" stroke-width="2"/>
+    <path d="M243 413V375" stroke="#31594c" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M413 351H690" stroke="#a8b29f" stroke-width="1.5" stroke-dasharray="4 5"/>
+    <text x="435" y="377" font-size="16" font-weight="bold">Duct remains exposed to the room</text>
+    <text x="435" y="400" font-size="15" fill="#596861">Neat seams, restrained supports, clean upward bend</text>
+    <text x="36" y="452" font-size="19" font-weight="bold">FV-0510VS1 body: 3⅜″ deep</text>
+    <text x="36" y="478" font-size="16">Original 13″ grille below the compact enclosure</text>
+    <text x="36" y="503" font-size="15" fill="#596861">Finished cover depth and service access: to be designed</text>
+    <text x="565" y="452" font-size="19" font-weight="bold">Custom fabricated metal duct</text>
+    <text x="565" y="478" font-size="16">Size and transition for the factory 4″ oval outlet</text>
+    <text x="565" y="503" font-size="15" fill="#596861">Confirm straight run, section, insulation and airflow</text>
+    <rect x="36" y="537" width="1008" height="34" rx="3" fill="#e7ece1"/>
+    <text x="52" y="560" font-size="15">Concept only. The fan and duct form the sealed exhaust path; the small cover is outside that path.</text>
+  </g>
+</svg>

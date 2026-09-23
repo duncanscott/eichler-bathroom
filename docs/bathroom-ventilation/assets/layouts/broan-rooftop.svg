@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+<title id="title">Broan fan in a custom rooftop enclosure</title><desc id="desc">Conceptual cutaway, not to scale. An indoor fan occupies an insulated enclosure above the roof; a sealed vertical duct reaches a roof cap, and the fan grille stays at the ceiling.</desc>
+<defs>
+  <pattern id="wood" width="32" height="12" patternUnits="userSpaceOnUse"><rect width="32" height="12" fill="#be936e"/><path d="M0 0v12M7 6h16" stroke="#966e4e" stroke-width="1"/></pattern>
+  <pattern id="insulation" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#e3dac0"/><path d="m0 8 8-8" stroke="#c3b591" stroke-width="1"/></pattern>
+  <marker id="air" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="4" markerHeight="4" orient="auto"><path d="m0 0 8 4-8 4" fill="#427365"/></marker>
+</defs>
+<rect width="320" height="180" rx="5" fill="#edf0e7"/>
+<rect y="115" width="320" height="65" fill="#f6f3ec"/>
+<path d="M16 103H114v12H16ZM208 103H304v12H208Z" fill="url(#wood)"/><path d="M16 102H114M208 102H304" stroke="#687c6c" stroke-width="3"/>
+<path d="M110 103V44h101v59" fill="url(#insulation)" stroke="#748570" stroke-width="3"/><path d="M122 114V55h77v59" fill="#fffcf7" stroke="#b4bda9" stroke-width="1.5"/><path d="M91 103h19V78m101 0v25h18" fill="none" stroke="#687c6c" stroke-width="3"/><path d="M148 72V30h24v42" fill="#dce2d8" stroke="#627865" stroke-width="2"/><path d="M136 30h48l-8-11h-32Z" fill="#a7b7a5" stroke="#627865" stroke-width="2"/><rect x="128" y="71" width="65" height="43" fill="#cdd6ca" stroke="#627865" stroke-width="2"/><circle cx="160" cy="94" r="14" fill="#809b89"/><path d="M160 81v26m-13-13h26" stroke="#fffcf7" stroke-width="2"/><rect x="123" y="115" width="75" height="6" rx="1" fill="#fffcf7" stroke="#647a6b" stroke-width="1.5"/><path d="M128 118h65" stroke="#647a6b" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M160 160v-30m0-64V38" fill="none" stroke="#427365" stroke-width="2.5" marker-end="url(#air)"/>
+</svg>

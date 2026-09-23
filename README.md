@@ -16,7 +16,7 @@ It is built by GitHub Pages from the **`docs/`** folder only. Everything else in
 |---|---|
 | **[DECISIONS.md](DECISIONS.md)** | What's actually been **decided** vs. what's still open. Read this first — the research folders deliberately present options, this file says which way we're going. |
 | [docs/index.html](docs/index.html) | Source of the published contractor page. |
-| [Bathroom ventilation options page](docs/bathroom-ventilation/index.html) | Prepared GitHub Pages reference comparing a Fantech roof fan and Panasonic shallow soffit, with installation sketches, moisture details, contractor questions, and the document library. |
+| [Bathroom ventilation options page](docs/bathroom-ventilation/index.html) | GitHub Pages comparison of exposed-duct, enclosed-duct and exterior-fan layouts, and a Broan rooftop-enclosure option with unresolved compliance concerns, with sketches, contractor questions and documents beside each option. |
 | [bathroom-ventilation/](bathroom-ventilation/) | Roof-exhaust alternatives for the tongue-and-groove ceiling, comparison table, opening compatibility, and downloaded manufacturer specifications. |
 | [window-coverings/](window-coverings/) | Typical Eichler window coverings: period evidence, owner discussions, practical recommendations, and a sourced image collection. |
 | [fireplace-remodel/](fireplace-remodel/) | Tiled Eichler fireplace references (26 downloaded source photos), before-and-after remodel accounts, the reconstructed project discussion, and what owners and designers say about tiling over Eichler brick. |

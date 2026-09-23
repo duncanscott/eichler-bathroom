@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+<title id="title">Elongated fan and duct enclosure</title><desc id="desc">Conceptual cutaway, not to scale. An elongated soffit below the ceiling surrounds the fan and horizontal duct, which turns upward through the roof.</desc>
+<defs>
+  <pattern id="wood" width="32" height="12" patternUnits="userSpaceOnUse"><rect width="32" height="12" fill="#be936e"/><path d="M0 0v12M7 6h16" stroke="#966e4e" stroke-width="1"/></pattern>
+  <pattern id="insulation" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#e3dac0"/><path d="m0 8 8-8" stroke="#c3b591" stroke-width="1"/></pattern>
+  <marker id="air" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="4" markerHeight="4" orient="auto"><path d="m0 0 8 4-8 4" fill="#427365"/></marker>
+</defs>
+<rect width="320" height="180" rx="5" fill="#edf0e7"/>
+<rect y="115" width="320" height="65" fill="#f6f3ec"/>
+<path d="M16 103H240v12H16ZM262 103H304v12H262Z" fill="url(#wood)"/><path d="M16 102H240M262 102H304" stroke="#687c6c" stroke-width="3"/>
+<path d="M230 83h42l-7-10h-28Z" fill="#a7b7a5" stroke="#627865" stroke-width="2"/><path d="M241 83v17m20-17v17" stroke="#627865" stroke-width="2"/>
+<path d="M55 115v36h216v-36" fill="#fffcf7" stroke="#9caa9a" stroke-width="2"/><path d="M59 118h208v29H59Z" fill="#eeeae0"/>
+<path d="M108 124h122q15 0 15-15V85h12v27q0 24-24 24H108Z" fill="#dce2d8" stroke="#627865" stroke-width="2"/>
+<rect x="68" y="120" width="40" height="23" rx="2" fill="#cdd6ca" stroke="#627865" stroke-width="2"/><circle cx="84" cy="132" r="7" fill="#809b89"/><path d="M84 125v14m-7-7h14" stroke="#fffcf7" stroke-width="1.5"/>
+<rect x="53" y="149" width="70" height="6" rx="1" fill="#fffcf7" stroke="#647a6b" stroke-width="1.5"/><path d="M58 152h60" stroke="#647a6b" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M85 168v-13m40-25h48m78-22V91" fill="none" stroke="#427365" stroke-width="2.5" marker-end="url(#air)"/>
+
+</svg>
