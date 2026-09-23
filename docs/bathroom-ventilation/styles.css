@@ -91,7 +91,6 @@ small,.small{font-size:.83rem;line-height:1.5}
 .question::before{content:counter(questions,decimal-leading-zero);font-size:.8rem;color:var(--wood);padding-top:2px}
 .question h3{font-size:.96rem;margin-bottom:7px}
 .question p{font-size:.86rem;color:var(--muted);margin:0}
-.brief-actions{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-top:25px;font-size:.85rem}
 .issues{margin-top:32px}
 .issues summary{cursor:pointer;font-weight:600;padding:17px 0;border-bottom:1px solid var(--line)}
 .issues details p{font-size:.87rem;padding:18px 0 2px;color:var(--muted);max-width:88ch}
@@ -142,7 +141,7 @@ small,.small{font-size:.83rem;line-height:1.5}
 
 @media print{body{background:white;font-size:10pt;color:#182c25}
 .wrap{width:100%}
-.site-header,.skip,.brief-actions,.compare-controls,.js-only{display:none!important}
+.site-header,.skip,.compare-controls,.js-only{display:none!important}
 h1{font-size:30pt}
 h2{font-size:23pt}
 .section{padding:22px 0}
@@ -152,13 +151,6 @@ h2{font-size:23pt}
 .grille-art{aspect-ratio:1;height:auto;min-height:0}
 .model,.grille,.question,.section-documents li,.diagram-panel{break-inside:avoid}
 .footer{padding:12px 0}
-.print-brief main>*:not(#contractor),.print-brief .footer{display:none!important}
-.print-brief #contractor{border:0;padding:0}
-.print-brief #contractor .issues,.print-brief #contractor .section-documents,.print-brief #contractor>.source-line{display:none}
-.print-brief .checks{display:block}
-.print-brief .question{padding:12px 0}
-.print-brief .section-heading{margin-bottom:10px}
-.print-brief #contractor .lede{font-size:10pt}
 }
 
 .parts-table-wrap{overflow-x:auto;margin:20px 0}
