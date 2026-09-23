@@ -1,0 +1,157 @@
+[
+  {
+    "file": "spec-sheets/Panasonic-FV-0511VQ1-submittal.pdf",
+    "source_url": "https://ftp.panasonic.com/ventilationfan/fv0511vq1/FV-0511VQ1_submittal.pdf",
+    "resolved_url": "https://ftp.panasonic.com/ventilationfan/fv0511vq1/FV-0511VQ1_submittal.pdf",
+    "source_note": "Panasonic; current US product-page link",
+    "retrieved_utc": "2026-09-22T21:55:56.801557+00:00",
+    "bytes": 1694229,
+    "sha256": "520af1b020c518e23685a0fda61b14b780d21621a276ee8b48e0de9a4cb872fe",
+    "pages": 1
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0511VQ1-installation.pdf",
+    "source_url": "https://ftp.panasonic.com/ventilationfan/fv0511vq1/ceilingdc_fan_only_en_installation.pdf",
+    "resolved_url": "https://ftp.panasonic.com/ventilationfan/fv0511vq1/ceilingdc_fan_only_en_installation.pdf",
+    "source_note": "Panasonic; current US product-page link",
+    "retrieved_utc": "2026-09-22T21:55:56.926243+00:00",
+    "bytes": 7134860,
+    "sha256": "c466eaa3f75bf1332864f2ff0e23d4984cc855e3f2f550408643de1ee1f3b450",
+    "pages": 12
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0510VS1-submittal.pdf",
+    "source_url": "https://ftp.panasonic.com/ventilationfan/fv-0510vs1/fv-0510vs1_submittal.pdf",
+    "resolved_url": "https://ftp.panasonic.com/ventilationfan/fv-0510vs1/fv-0510vs1_submittal.pdf",
+    "source_note": "Panasonic; current US product-page link",
+    "retrieved_utc": "2026-09-22T21:55:56.727215+00:00",
+    "bytes": 1123325,
+    "sha256": "ff585fa7254a398cfe71ef5301d73b9f587f421dcab58d88ba6463c757a8bd20",
+    "pages": 1
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0510VS1-installation.pdf",
+    "source_url": "https://ftp.panasonic.com/ventilationfan/installation/fv0510vs1_installation_en.pdf",
+    "resolved_url": "https://ftp.panasonic.com/ventilationfan/installation/fv0510vs1_installation_en.pdf",
+    "source_note": "Panasonic; current US product-page link",
+    "retrieved_utc": "2026-09-22T21:55:56.721810+00:00",
+    "bytes": 4007617,
+    "sha256": "d4c02b1459e6c798fc48dd2f140d8e3775420c60411d34f6baca8742acaf787a",
+    "pages": 8
+  },
+  {
+    "file": "spec-sheets/Broan-L100E-L300E-specifications.pdf",
+    "source_url": "https://www.broan-nutone.com/getmedia/f24927f6-a035-405b-9379-26e983216a08/Specification-Sheet-L100E-L300E.pdf?ext=.pdf",
+    "resolved_url": "https://broan-nutone.com/getmedia/f24927f6-a035-405b-9379-26e983216a08/Specification-Sheet-L100E-L300E.pdf?ext=.pdf",
+    "source_note": "Broan-NuTone; current US product-page link",
+    "retrieved_utc": "2026-09-22T21:55:56.410043+00:00",
+    "bytes": 922185,
+    "sha256": "098f94dd770b48e0eff184bd2336f4247faca934d3daf8789e4468e7ff98193b",
+    "pages": 6
+  },
+  {
+    "file": "spec-sheets/Broan-L100E-L300E-installation.pdf",
+    "source_url": "https://www.broan-nutone.com/getmedia/f975b9ae-6454-474f-bc92-80547ecb0580/Installation_Guide_L100E_L150E_L200E_L250E_L300E_en_fr_2.pdf?ext=.pdf",
+    "resolved_url": "https://broan-nutone.com/getmedia/f975b9ae-6454-474f-bc92-80547ecb0580/Installation_Guide_L100E_L150E_L200E_L250E_L300E_en_fr_2.pdf?ext=.pdf",
+    "source_note": "Broan-NuTone; current US product-page link",
+    "retrieved_utc": "2026-09-22T21:55:56.663181+00:00",
+    "bytes": 3568837,
+    "sha256": "2b6e36f686b39c6c00b53d940d6499596b04634cb9ea112ce8ff5d7d8da57937",
+    "pages": 24
+  },
+  {
+    "file": "spec-sheets/Broan-504-505-specifications.pdf",
+    "source_url": "https://www.broan-nutone.com/getmedia/5bc273ba-1387-45e9-8bac-0a823b1a68a0/Spec-Sheet-504-505.pdf?ext=.pdf",
+    "resolved_url": "https://broan-nutone.com/getmedia/5bc273ba-1387-45e9-8bac-0a823b1a68a0/Spec-Sheet-504-505.pdf?ext=.pdf",
+    "source_note": "Broan-NuTone; current US product-page link",
+    "retrieved_utc": "2026-09-22T21:55:57.312975+00:00",
+    "bytes": 90172,
+    "sha256": "c0fe07c7b741b1479899026ff0bed3dfd381ee4d1170caa66e40d8d1b253edbd",
+    "pages": 2
+  },
+  {
+    "file": "spec-sheets/Broan-504-505-installation.pdf",
+    "source_url": "https://www.broan-nutone.com/getmedia/797f2884-904a-4add-9bbd-537ef93ef034/Installation-Guide-504-505.pdf?ext=.pdf",
+    "resolved_url": "https://broan-nutone.com/getmedia/797f2884-904a-4add-9bbd-537ef93ef034/Installation-Guide-504-505.pdf?ext=.pdf",
+    "source_note": "Broan-NuTone; current US product-page link",
+    "retrieved_utc": "2026-09-22T21:55:57.654584+00:00",
+    "bytes": 179443,
+    "sha256": "6125d7ec53c1812ed85abb8f96611d8fd0ed4b2cf4bf4dd42db3403f086292e4",
+    "pages": 7
+  },
+  {
+    "file": "spec-sheets/Fantech-RE-REC-brochure-performance-2010.pdf",
+    "source_url": "https://s3.amazonaws.com/s3.supplyhouse.com/manuals/1288197789834/40963_PROD_FILE.pdf",
+    "resolved_url": "https://s3.amazonaws.com/s3.supplyhouse.com/manuals/1288197789834/40963_PROD_FILE.pdf",
+    "source_note": "Fantech manufacturer brochure, September 2010, hosted by SupplyHouse; historical dimensions/performance",
+    "retrieved_utc": "2026-09-22T21:55:57.809425+00:00",
+    "bytes": 1162505,
+    "sha256": "f55ed5947f87e9760174996887fa5debc51f007c40dd37731ca92ac35d446275",
+    "pages": 2
+  },
+  {
+    "file": "spec-sheets/Fantech-RE-REC-submittal-2007.pdf",
+    "source_url": "https://s3.amazonaws.com/s3.supplyhouse.com/manuals/1288197778864/40962_PROD_FILE.pdf",
+    "resolved_url": "https://s3.amazonaws.com/s3.supplyhouse.com/manuals/1288197778864/40962_PROD_FILE.pdf",
+    "source_note": "Fantech manufacturer submittal, June 2007, hosted by SupplyHouse; historical ENERGY STAR claim; dimensions differ from later brochure",
+    "retrieved_utc": "2026-09-22T21:55:57.411899+00:00",
+    "bytes": 82482,
+    "sha256": "319faa1a85d74129d01c6b8f4af2fd54b6ee6fbb96a208bf3c9143e405c758e2",
+    "pages": 1
+  },
+  {
+    "file": "spec-sheets/Fantech-RE-REC-detailed-performance-2008.pdf",
+    "source_url": "https://s3.amazonaws.com/s3.supplyhouse.com/manuals/1288197766294/40961_PROD_FILE.pdf",
+    "resolved_url": "https://s3.amazonaws.com/s3.supplyhouse.com/manuals/1288197766294/40961_PROD_FILE.pdf",
+    "source_note": "Fantech RE(C)0808 detailed air and sound performance, August 2008. Retailer labels this User Guide, but the downloaded file is a performance catalog, not installation instructions.",
+    "retrieved_utc": "2026-09-22T21:55:57.566791+00:00",
+    "bytes": 264068,
+    "sha256": "8d48df3062bae8b5e22db2a8bc17418b0094dce1158d21f4ad430434c86cc8ac",
+    "pages": 8
+  },
+  {
+    "file": "code-reference/California-2025-CALGreen-residential-checklist.pdf",
+    "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/building-standards/CALGreen/hcd-shl-625c.pdf",
+    "resolved_url": "https://www.hcd.ca.gov/sites/default/files/docs/building-standards/CALGreen/hcd-shl-625c.pdf",
+    "source_note": "California HCD; effective January 1, 2026; page 12 section 4.506.1",
+    "retrieved_utc": "2026-09-22T21:55:57.581281+00:00",
+    "bytes": 3806658,
+    "sha256": "6513a574f401766c8d10acfb781b529f6be4ca8920d092b42e208cf505e17e83",
+    "pages": 13
+  },
+  {
+    "file": "code-reference/California-2025-CF2R-MCH-27-H-ventilation.pdf",
+    "source_url": "https://www.energy.ca.gov/filebrowser/download/8688?fid=8688",
+    "resolved_url": "https://www.energy.ca.gov/filebrowser/download/8688?fid=8688",
+    "source_note": "California Energy Commission; 2025 compliance form, remote-fan sound exception",
+    "retrieved_utc": "2026-09-22T21:55:58.281869+00:00",
+    "bytes": 646349,
+    "sha256": "1e5f2c1c5bf12ef5a7eae46f7712032ec93f91e35dda8f2ad36c3ab6770e2f69",
+    "pages": 12
+  },
+  {
+    "file": "code-reference/Contra-Costa-bathroom-remodel-2022-code.pdf",
+    "source_url": "https://www.contracosta.ca.gov/DocumentCenter/View/44647/RESIDENTIAL-BATHROOM-REMODEL",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "code-reference/ENERGY-STAR-ventilating-fans-historical-list.pdf",
+    "source_url": "https://www.energystar.gov/ia/products/prod_lists/vent_fan_prod_list.pdf",
+    "resolved_url": "https://www.energystar.gov/ia/products/prod_lists/vent_fan_prod_list.pdf",
+    "source_note": "Official EPA historical list dated January 9, 2009. Lists RE54 and REC54; not proof of current certification.",
+    "retrieved_utc": "2026-09-22T21:57:46.689012+00:00",
+    "bytes": 171311,
+    "sha256": "23f2a478e3f8e0632769e0c680113bcc2e068dda816b014c412645050eeb4738",
+    "pages": 24
+  },
+  {
+    "file": "spec-sheets/Fantech-RE-REC-installation.pdf",
+    "source_url": "https://hvacquick.com/catalog_files/Fantech_RE_Series_Fan_IOM.pdf",
+    "resolved_url": "https://hvacquick.com/catalog_files/Fantech_RE_Series_Fan_IOM.pdf",
+    "source_note": "Fantech manufacturer installation manual, item 405262, revision 2021-02-18; hosted by HVACQuick; includes current-series dimensional drawing.",
+    "retrieved_utc": "2026-09-22T21:58:10.861590+00:00",
+    "bytes": 347505,
+    "sha256": "fa207e9f4478a8e841761cf425fc15eac805480dd7b86b7a219e200647b002cc",
+    "pages": 8
+  }
+]
