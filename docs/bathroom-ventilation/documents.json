@@ -1,0 +1,210 @@
+[
+  {
+    "file": "code-reference/California-2025-CALGreen-residential-checklist.pdf",
+    "title": "2025 CALGreen residential checklist",
+    "category": "code",
+    "note": "California HCD · Bathroom ventilation requirements at §4.506.1, page 12.",
+    "bytes": 3806658,
+    "sha256": "6513a574f401766c8d10acfb781b529f6be4ca8920d092b42e208cf505e17e83"
+  },
+  {
+    "file": "code-reference/California-2025-CF2R-MCH-27-H-ventilation.pdf",
+    "title": "2025 CEC ventilation compliance form",
+    "category": "code",
+    "note": "CF2R-MCH-27-H · Sound criteria and remote-fan exception, page 6.",
+    "bytes": 646349,
+    "sha256": "1e5f2c1c5bf12ef5a7eae46f7712032ec93f91e35dda8f2ad36c3ab6770e2f69"
+  },
+  {
+    "file": "code-reference/ENERGY-STAR-ventilating-fans-historical-list.pdf",
+    "title": "Historical ENERGY STAR fan list",
+    "category": "code",
+    "note": "EPA · January 9, 2009. Historical evidence, not proof of current certification.",
+    "bytes": 171311,
+    "sha256": "23f2a478e3f8e0632769e0c680113bcc2e068dda816b014c412645050eeb4738"
+  },
+  {
+    "file": "docs/405262_RE_C__OIPM_EN_20190426_185331269.pdf",
+    "title": "RE / REC manual — original-filename copy",
+    "category": "fantech",
+    "note": "Additional project download. Identical contents to the 2021 installation manual; retained so every downloaded file is linked.",
+    "bytes": 347505,
+    "sha256": "fa207e9f4478a8e841761cf425fc15eac805480dd7b86b7a219e200647b002cc"
+  },
+  {
+    "file": "spec-sheets/Broan-504-505-installation.pdf",
+    "title": "Broan 504 / 505 installation manual",
+    "category": "alternatives",
+    "note": "Retained for completeness of the original fan comparison.",
+    "bytes": 179443,
+    "sha256": "6125d7ec53c1812ed85abb8f96611d8fd0ed4b2cf4bf4dd42db3403f086292e4"
+  },
+  {
+    "file": "spec-sheets/Broan-504-505-specifications.pdf",
+    "title": "Broan 504 / 505 specifications",
+    "category": "alternatives",
+    "note": "Rejected candidate · Excessive sound; not the recommended shower solution.",
+    "bytes": 90172,
+    "sha256": "c0fe07c7b741b1479899026ff0bed3dfd381ee4d1170caa66e40d8d1b253edbd"
+  },
+  {
+    "file": "spec-sheets/Broan-L100E-L300E-installation.pdf",
+    "title": "Broan L100E–L300E installation manual",
+    "category": "alternatives",
+    "note": "Top-outlet conversion; indoor fan housing still needs a protected enclosure.",
+    "bytes": 3568837,
+    "sha256": "2b6e36f686b39c6c00b53d940d6499596b04634cb9ea112ce8ff5d7d8da57937"
+  },
+  {
+    "file": "spec-sheets/Broan-L100E-L300E-specifications.pdf",
+    "title": "Broan L100E–L300E specifications",
+    "category": "alternatives",
+    "note": "Includes L100E vertical-outlet airflow and sound ratings.",
+    "bytes": 922185,
+    "sha256": "098f94dd770b48e0eff184bd2336f4247faca934d3daf8789e4468e7ff98193b"
+  },
+  {
+    "file": "spec-sheets/Fantech-CG-grilles-specifications-2005.pdf",
+    "title": "Fantech CG grille specifications",
+    "category": "grilles",
+    "note": "2005 · CG5 / CG45 dimensions, materials, pressure and noise curves.",
+    "bytes": 864594,
+    "sha256": "84831456a4cbc762b18f81e55269fa3ed4593cd8c036362c07921359598c079e"
+  },
+  {
+    "file": "spec-sheets/Fantech-RE-REC-brochure-performance-2010.pdf",
+    "title": "RE / REC brochure & airflow curves",
+    "category": "fantech",
+    "note": "2010 · RE54 / REC54 performance and typical applications.",
+    "bytes": 1162505,
+    "sha256": "f55ed5947f87e9760174996887fa5debc51f007c40dd37731ca92ac35d446275"
+  },
+  {
+    "file": "spec-sheets/Fantech-RE-REC-detailed-performance-2008.pdf",
+    "title": "RE / REC detailed air & sound performance",
+    "category": "fantech",
+    "note": "2008 · Historical AMCA data; not an HVI bathroom sound rating.",
+    "bytes": 264068,
+    "sha256": "8d48df3062bae8b5e22db2a8bc17418b0094dce1158d21f4ad430434c86cc8ac"
+  },
+  {
+    "file": "spec-sheets/Fantech-RE-REC-installation.pdf",
+    "title": "RE / REC installation manual",
+    "category": "fantech",
+    "note": "2021 revision · Curb / pitched-roof arrangements, dimensions and wiring. Start here.",
+    "bytes": 347505,
+    "sha256": "fa207e9f4478a8e841761cf425fc15eac805480dd7b86b7a219e200647b002cc"
+  },
+  {
+    "file": "spec-sheets/Fantech-RE-REC-submittal-2007.pdf",
+    "title": "RE / REC historical submittal",
+    "category": "fantech",
+    "note": "2007 · Historical ENERGY STAR claim. Use the 2021 manual for dimensions.",
+    "bytes": 82482,
+    "sha256": "319faa1a85d74129d01c6b8f4af2fd54b6ee6fbb96a208bf3c9143e405c758e2"
+  },
+  {
+    "file": "spec-sheets/Fantech-accessories-catalog-2004.pdf",
+    "title": "Fantech accessories catalog",
+    "category": "grilles",
+    "note": "2004 · MGE5 dimensions on page 3. Confirm current dimensions before fabrication.",
+    "bytes": 514871,
+    "sha256": "14ccf729b72908b9fd9430efcfacebd77caf5975fcf443365914e288f4e6c7eb"
+  },
+  {
+    "file": "spec-sheets/Fantech-commercial-accessories-curbs.pdf",
+    "title": "Fantech roof curb specifications — 5ACC15FS",
+    "category": "fantech",
+    "note": "Undated catalog excerpt · PDF page 1 (printed page 272) lists 5ACC15FS, item 49580, for REC54 / REC6. Catalog prices are historical.",
+    "bytes": 396316,
+    "sha256": "6900917cc0ae8a690320bc8f7a9e377c1a1a099d6a563239ea889474b25c7410"
+  },
+  {
+    "file": "spec-sheets/Hart-Cooley-RH45-submittal.pdf",
+    "title": "Hart & Cooley RH45 grille submittal",
+    "category": "grilles",
+    "note": "2020 drawing · Face dimensions, mounting-screw offsets and rectangular duct interface.",
+    "bytes": 56564,
+    "sha256": "7d74377e33f684521f38bcbf3991bfd45d89bd2dae60fc4c131c44d27d3595c2"
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0510VS1-installation.pdf",
+    "title": "Panasonic FV-0510VS1 installation manual",
+    "category": "alternatives",
+    "note": "WhisperValue installation and duct details.",
+    "bytes": 4007617,
+    "sha256": "d4c02b1459e6c798fc48dd2f140d8e3775420c60411d34f6baca8742acaf787a"
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0510VS1-service.pdf",
+    "title": "Panasonic FV-0510VS1 service manual & grille part",
+    "category": "alternatives",
+    "note": "Version 2502 · PDF page 6, item 9 identifies FFV3400146S Louver Assy; exploded mounting drawing on page 3.",
+    "bytes": 1289130,
+    "sha256": "8b175d92ce81cd8fdeaec6aec3b88e5113770189a9f3374fee8a65e6b6c9aea0"
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0510VS1-submittal.pdf",
+    "title": "Panasonic FV-0510VS1 specifications",
+    "category": "alternatives",
+    "note": "Proposed indoor soffit · 3⅜-inch fan body; enclosure also needs space for the side duct.",
+    "bytes": 1123325,
+    "sha256": "ff585fa7254a398cfe71ef5301d73b9f587f421dcab58d88ba6463c757a8bd20"
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0511VQ1-installation.pdf",
+    "title": "Panasonic FV-0511VQ1 installation manual",
+    "category": "alternatives",
+    "note": "Mounting, ceiling openings, duct guidance and electrical requirements.",
+    "bytes": 7134860,
+    "sha256": "c466eaa3f75bf1332864f2ff0e23d4984cc855e3f2f550408643de1ee1f3b450"
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0511VQ1-service.pdf",
+    "title": "Panasonic FV-0511VQ1 service manual & grille part",
+    "category": "alternatives",
+    "note": "Version 1902 · PDF page 7, item 13 identifies FFV1115VQ1A Grill Assembly; exploded mounting drawing on page 3.",
+    "bytes": 2448617,
+    "sha256": "938aac22a25ba08a6f3f123808af84fdc3cd6d534d12ef3cada50a1e8ee1761f"
+  },
+  {
+    "file": "spec-sheets/Panasonic-FV-0511VQ1-submittal.pdf",
+    "title": "Panasonic FV-0511VQ1 specifications",
+    "category": "alternatives",
+    "note": "Already installed, per owner · 7⅜-inch-deep housing; actual projection and duct route need measurement.",
+    "bytes": 1694229,
+    "sha256": "520af1b020c518e23685a0fda61b14b780d21621a276ee8b48e0de9a4cb872fe"
+  },
+  {
+    "file": "README.md",
+    "title": "Full bathroom ventilation research",
+    "category": "notes",
+    "note": "Fan comparison, existing-opening implications, roof options and unresolved requirements.",
+    "bytes": 26993,
+    "sha256": "5d91410fbfbf8b2af7248524d51e9560228166470503e7ee4c24950f92db3796"
+  },
+  {
+    "file": "ceiling-grilles.md",
+    "title": "Ceiling grille comparison & installation notes",
+    "category": "notes",
+    "note": "Product links, archived price observations, fit calculations and source limitations.",
+    "bytes": 6953,
+    "sha256": "8e0fdccdf3a67b29b4654d1881548f38a75bc3f21e68eb798fb083fcf61802b8"
+  },
+  {
+    "file": "sources.json",
+    "title": "Original document source record",
+    "category": "notes",
+    "note": "Download URLs, retrieval timestamps and verification data; includes the unsuccessful county-handout download.",
+    "bytes": 12540,
+    "sha256": "bc8db41098da976871378d741bad1a4c9b428e67214b7f8016d57e442b632a6e"
+  },
+  {
+    "file": "contractor-brief.txt",
+    "title": "Contractor questions — printable text",
+    "category": "notes",
+    "note": "Ten questions to coordinate the roofer and ventilation/electrical installer.",
+    "bytes": 2762,
+    "sha256": "78f25489ab10c8173a0ecf7e6d189ea394a96b5cb44f9cfbd9df0b05b1a5f1e4"
+  }
+]

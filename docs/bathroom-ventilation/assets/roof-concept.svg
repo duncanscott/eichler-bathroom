@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="510" viewBox="0 0 600 510" role="img" aria-labelledby="title desc">
+<title id="title">Roof fan, wood ceiling</title><desc id="desc">A conceptual cutaway of an exterior fan on a roof curb, with a sealed vertical connection to a grille on the wood ceiling. Not to scale.</desc>
+<defs><pattern id="wood" width="58" height="24" patternUnits="userSpaceOnUse"><rect width="58" height="24" fill="#af7b54"/><path d="M0 0H58M0 24H58" stroke="#855b3d" stroke-width="2"/><path d="M8 11H43" stroke="#c39570"/></pattern><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="m0 0 10 5-10 5" fill="#446b5b"/></marker></defs>
+<text x="25" y="36" fill="#49604f" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">OUTDOORS</text>
+<path d="M30 284 398 235 578 291 210 345Z" fill="#9aab98"/><path d="M30 284v32l180 67v-38Z" fill="url(#wood)"/><path d="m210 345 368-54v32l-368 60Z" fill="#b58b63"/>
+<path d="m202 204 166-26 69 31-165 31Z" fill="#b9c5b0"/><path d="m202 204 70 36v66l-70-29Z" fill="#6e8570"/><path d="m272 240 165-31v63l-165 34Z" fill="#83987d"/>
+<path d="m235 284 102-17 29 18-96 17Z" fill="#dae0d4"/>
+<path d="M284 195v157" fill="none" stroke="#eef0e7" stroke-width="48"/><path d="M260 201v149M308 201v149" fill="none" stroke="#89958a" stroke-width="2"/>
+<path d="m182 190 181-28 92 38-183 37Z" fill="#53645a"/><path d="m182 190v10l90 44v-7Z" fill="#324a3e"/><path d="m272 237 183-37v11l-183 33Z" fill="#647568"/>
+<path d="M228 174v-51q5-43 89-51 79 0 99 44v55q-93 43-188 3" fill="#ced6c7" stroke="#5f7461" stroke-width="2"/>
+<ellipse cx="322" cy="119" rx="94" ry="34" fill="#e9ece1" stroke="#5f7461" stroke-width="2"/>
+<path d="M228 164q85 39 188-3v13q-100 42-188 0Z" fill="#49624f"/>
+<path d="m231 350 65-9 51 18-71 12Z" fill="#fbfaf3" stroke="#8d958b" stroke-width="2"/>
+<path d="m247 352 48-7m-38 11 48-7m-38 11 48-7m-38 11 47-7" stroke="#78857b" stroke-width="2"/>
+<path d="M283 445V388M284 332V245" stroke="#446b5b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<path d="M224 182 161 168M418 177l63-15" stroke="#446b5b" stroke-width="3" marker-end="url(#arrow)" fill="none"/>
+<text x="26" y="472" fill="#49604f" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">SHOWER CEILING</text>
+<text x="328" y="433" fill="#294737" font-family="Arial,sans-serif" font-size="15">Air rises through</text><text x="328" y="455" fill="#294737" font-family="Arial,sans-serif" font-size="15">a sealed connection</text>
+<path d="M338 404 304 363" stroke="#71846e" fill="none"/>
+</svg>

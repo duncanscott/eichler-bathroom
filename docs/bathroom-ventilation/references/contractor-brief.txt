@@ -1,0 +1,37 @@
+EICHLER BATHROOM — VENTILATION OPTIONS
+Contractor discussion brief | Updated: September 23, 2026
+
+Option under consideration, not an approved construction detail.
+Known: no attic; tongue-and-groove ceiling directly below the roof;
+Panasonic FV-0511VQ1 already installed, per owner; projection unmeasured.
+Actual opening, roof layers, slope, clear depth and room size need measurement.
+
+1. What is actually above the ceiling?
+Record opening width/length, board thickness, roof layers, clear depth, roof material/slope, and beam locations. Confirm support for cut boards.
+
+2. Which complete layout fits?
+Compare the direct/offset REC54 with the FV-0510VS1 soffit. Show finished dimensions, mounting, headroom, the side-duct straight run and bend, roof termination, drainage and warranty treatment. Confirm custom details with the relevant manufacturer.
+
+3. How will the grille cover and attach?
+For Fantech, show the frame, transition and removable grille. For Panasonic, retain its original grille in the finished soffit underside; show separate support and access for any matching spare grille over the duct compartment. Show repair/support of the existing opening if the new duct route does not reuse it.
+
+4. How will the concealed space stay dry?
+Detail sealed fan flange and duct joints, roof air sealing, insulation, condensation control and backdraft protection. For the soffit, show inspection access and dry materials before closure. Any proposed side vents need an explicit airflow and drying assessment.
+
+5. What airflow will the room receive?
+Establish required exhaust from bathroom size and operating mode. Calculate resistance through the grille, transition, duct and damper; measure completed airflow.
+
+6. What is the sound-compliance route?
+For Fantech, state grille-to-fan duct length, expected sound and any silencer; confirm the 4-foot condition if using the remote-fan exception. For Panasonic, assess rated sound at the proposed airflow and duct resistance.
+
+7. Is the exact unit currently certified?
+Obtain current model/item-specific ENERGY STAR evidence and confirm the permit’s ventilation requirements with the city or county authority.
+
+8. Which controls and electrical details?
+Specify humidity control, user operation, wiring route, and service access. Confirm the manufacturer’s tub/shower and GFCI requirements for this arrangement.
+
+9. How will it be cleaned and serviced?
+Confirm removable grille, accessible damper/transition as needed, roof-fan access, and vibration isolation without exposing the roof to leaks.
+
+10. What does the complete bid include?
+Itemize fan, grille/frame, duct/transition, damper, controls, wiring, curb/flashing, insulation, roof repair, permits and commissioning. Identify who owns each detail.

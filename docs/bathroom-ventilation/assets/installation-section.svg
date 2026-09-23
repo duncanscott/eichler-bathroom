@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="560" viewBox="0 0 1080 560" role="img" aria-labelledby="title desc">
+<title id="title">REC54 conceptual installation section</title><desc id="desc">Six labeled parts: exterior fan, flashed curb, sealed duct and transition, supported roof decking, removable ceiling grille, and measured airflow. Roof layers and dimensions are illustrative, not a construction detail.</desc>
+<defs><pattern id="insulation" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#e7dfc5"/><path d="m0 14 14-14M-7 7 7-7M7 21 21 7" stroke="#c8bf9f"/></pattern><pattern id="wood" width="62" height="30" patternUnits="userSpaceOnUse"><rect width="62" height="30" fill="#b5835c"/><path d="M0 0v30M8 13h38" stroke="#875b3d"/></pattern><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="m0 0 10 5-10 5" fill="#427365"/></marker></defs>
+<rect x="45" y="40" width="990" height="295" fill="#edf0e7" rx="3"/>
+<g font-family="Arial,sans-serif" fill="#243e37"><text x="68" y="65" font-size="11" letter-spacing="2">OUTDOORS</text><text x="68" y="533" font-size="11" letter-spacing="2">BATHROOM / SHOWER</text><text x="817" y="65" font-size="11" fill="#586c5c">CONCEPT · NOT TO SCALE</text></g>
+<path d="M65 335h360v50H65Zm590 0h360v50H655Z" fill="url(#insulation)"/><path d="M65 385h360v28H65Zm590 0h360v28H655Z" fill="url(#wood)"/>
+<path d="M65 335h335V188h35v148m210 0V188h35v147h335" fill="none" stroke="#526754" stroke-width="8"/>
+<path d="M65 328h326V201h13m272 0h13v127h326" fill="none" stroke="#899985" stroke-width="3"/>
+<path d="M425 383h30v40h-30Zm200 0h30v40h-30Z" fill="#7b583e"/>
+<path d="M512 175v112l-57 97v33h170v-33l-57-97V175" fill="#f7f8f2" stroke="#7c8a7d" stroke-width="3"/>
+<path d="M512 279h56M455 404h170" stroke="#aab7a8" stroke-width="3"/>
+<path d="M406 174h268v17H406Z" fill="#5e7360"/><path d="M461 105q8-37 79-37t79 37v55H461Z" fill="#cad3c3" stroke="#617661" stroke-width="2"/>
+<ellipse cx="540" cy="107" rx="79" ry="20" fill="#e1e7d9" stroke="#617661" stroke-width="2"/><path d="M461 153q79 28 158 0v15q-79 28-158 0Z" fill="#3f5845"/>
+<rect x="416" y="417" width="248" height="15" rx="2" fill="#fbfaf4" stroke="#8a9185" stroke-width="2"/>
+<path d="M435 423h12m8 0h12m8 0h12m8 0h12m8 0h12m8 0h12m8 0h12m8 0h12m8 0h12m8 0h12m8 0h12" stroke="#667a6c" stroke-width="3"/>
+<path d="M540 503v-60M540 393v-76M540 263v-57M468 177h-85M612 177h85" fill="none" stroke="#427365" stroke-width="4" marker-end="url(#arrow)"/>
+<g fill="none" stroke="#89947f" stroke-width="1.5"><path d="M304 112h123l35 9"/><path d="M748 211h-41l-28 32"/><path d="M750 293H612l-44-40"/><path d="M310 447h68l43-46"/><path d="M750 449h-45l-42-26"/><path d="M310 502h194"/></g>
+<g font-family="Arial,sans-serif">
+<g transform="translate(81 103)"><circle r="13" fill="#31594c"/><text y="4" text-anchor="middle" fill="white" font-size="12">1</text><text x="23" y="4" fill="#243e37" font-size="16" font-weight="bold">REC54 roof fan</text><text x="23" y="26" fill="#596861" font-size="13">Motor and exhaust outdoors</text></g>
+<g transform="translate(764 205)"><circle r="13" fill="#31594c"/><text y="4" text-anchor="middle" fill="white" font-size="12">2</text><text x="23" y="4" fill="#243e37" font-size="16" font-weight="bold">Flashed roof curb</text><text x="23" y="26" fill="#596861" font-size="13">Height and roofing detail TBD</text></g>
+<g transform="translate(764 287)"><circle r="13" fill="#31594c"/><text y="4" text-anchor="middle" fill="white" font-size="12">3</text><text x="23" y="4" fill="#243e37" font-size="16" font-weight="bold">Sealed duct + transition</text><text x="23" y="26" fill="#596861" font-size="13">Plan insulation and damper</text></g>
+<g transform="translate(81 441)"><circle r="13" fill="#31594c"/><text y="4" text-anchor="middle" fill="white" font-size="12">4</text><text x="23" y="4" fill="#243e37" font-size="16" font-weight="bold">Wood roof decking</text><text x="23" y="26" fill="#596861" font-size="13">Support cut boards and frame</text></g>
+<g transform="translate(764 443)"><circle r="13" fill="#31594c"/><text y="4" text-anchor="middle" fill="white" font-size="12">5</text><text x="23" y="4" fill="#243e37" font-size="16" font-weight="bold">Removable grille</text><text x="23" y="26" fill="#596861" font-size="13">Against the wood ceiling</text></g>
+<g transform="translate(81 498)"><circle r="13" fill="#31594c"/><text y="4" text-anchor="middle" fill="white" font-size="12">6</text><text x="23" y="4" fill="#243e37" font-size="16" font-weight="bold">Measure exhaust flow</text></g>
+</g>
+</svg>

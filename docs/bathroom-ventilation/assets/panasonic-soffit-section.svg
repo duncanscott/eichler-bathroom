@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="560" viewBox="0 0 1080 560" role="img" aria-labelledby="title desc">
+  <title id="title">Panasonic FV-0510VS1 in a shallow indoor soffit</title>
+  <desc id="desc">Not-to-scale design concept: the fan is supported inside a closed soffit below the wood ceiling, with its grille underneath. A sealed side duct runs straight before turning up through the roof to a suitable weatherproof termination. The box around the fan is outside the exhaust path. Roof insulation, air sealing, access and actual dimensions require design.</desc>
+  <defs>
+    <pattern id="wood" width="50" height="22" patternUnits="userSpaceOnUse"><rect width="50" height="22" fill="#bb8a63"/><path d="M0 20H50M10 8H32" stroke="#9c6f4f" stroke-width="1"/></pattern>
+    <pattern id="insulation" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#e3dec2"/><path d="m0 12 12-12" stroke="#c7c2a4" stroke-width="1"/></pattern>
+    <marker id="air" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 8 4 0 8Z" fill="#31594c"/></marker>
+    <marker id="dimension" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto-start-reverse"><path d="M6 0 0 3 6 6" fill="none" stroke="#7b8278"/></marker>
+  </defs>
+  <rect width="1080" height="560" rx="4" fill="#fffcf7"/>
+  <g font-family="Arial, sans-serif" fill="#243e37">
+    <text x="36" y="34" font-size="14" letter-spacing="2">SIDE SECTION · CONCEPT ONLY · NOT TO SCALE</text>
+    <text x="36" y="80" font-size="20" font-weight="bold">Existing roof and wood ceiling</text>
+    <text x="36" y="106" font-size="16" fill="#596861">Maintain insulation and air sealing; repair unused cutout.</text>
+    <text x="704" y="62" font-size="18" font-weight="bold">Suitable roof termination</text>
+    <text x="704" y="86" font-size="15" fill="#596861">Flashing, insulation and bend detail by roofer</text>
+    <path d="M55 138H809V165H55ZM881 138H1025V165H881Z" fill="url(#insulation)"/>
+    <path d="M55 165H809V191H55ZM881 165H1025V191H881Z" fill="url(#wood)"/>
+    <path d="M55 137H803V126H810M880 126H888V137H1025" fill="none" stroke="#567668" stroke-width="5"/>
+    <path d="M94 191V334H958V191" fill="#f0eee6" stroke="#b0b7a9" stroke-width="3"/>
+    <path d="M95 192H808M882 192H957" fill="none" stroke="#31594c" stroke-width="2" stroke-dasharray="6 4"/>
+    <path d="M119 194V326M377 194V237" stroke="#ad7d59" stroke-width="15"/>
+    <rect x="179" y="220" width="196" height="107" rx="3" fill="#dce3d9" stroke="#627c6e" stroke-width="2"/>
+    <rect x="188" y="229" width="62" height="34" rx="3" fill="#c4cec2"/>
+    <circle cx="283" cy="276" r="32" fill="#eef1e9" stroke="#8a9e8d" stroke-width="2"/>
+    <path d="M275 249Q316 268 281 282Q252 300 269 314" fill="none" stroke="#879c8a" stroke-width="5"/>
+    <path d="M375 274H791Q845 274 845 220V119" fill="none" stroke="#a3b39f" stroke-width="60"/>
+    <path d="M375 274H791Q845 274 845 220V119" fill="none" stroke="#fffcf7" stroke-width="40"/>
+    <path d="M373 247V301M409 247V301" stroke="#6e8576" stroke-width="3"/>
+    <path d="M804 126V116H886V126M796 115 810 99H880L894 115Z" fill="#c3d0bf" stroke="#567668" stroke-width="2"/>
+    <path d="M824 104 814 90M866 104 876 90" stroke="#31594c" stroke-width="2" marker-end="url(#air)"/>
+    <path d="M440 274H596M676 274H760M845 209V163" fill="none" stroke="#31594c" stroke-width="3" marker-end="url(#air)"/>
+    <rect x="158" y="331" width="240" height="15" fill="#fafaf5" stroke="#6e8576" stroke-width="2"/>
+    <path d="M174 338H190M201 338H217M228 338H244M255 338H271M282 338H298M309 338H325M336 338H352M363 338H379" stroke="#6e8576" stroke-width="2"/>
+    <path d="M160 328H176M377 328H397" stroke="#31594c" stroke-width="5"/>
+    <path d="M480 331H728" stroke="#567668" stroke-width="4" stroke-dasharray="8 4"/>
+    <path d="M281 399V352" fill="none" stroke="#31594c" stroke-width="3" marker-end="url(#air)"/>
+    <path d="M102 392 182 311" stroke="#7b8278" fill="none"/>
+    <text x="36" y="421" font-size="18" font-weight="bold">Fan body: 3⅜″ deep</text>
+    <text x="36" y="446" font-size="16">13″ removable grille below</text>
+    <text x="36" y="472" font-size="16" fill="#596861">Seal flange to finished underside.</text>
+    <path d="M417 355V375M792 355V375M422 365H787" stroke="#7b8278" stroke-width="1.5" fill="none"/>
+    <text x="428" y="398" font-size="18" font-weight="bold">Side duct stays inside the soffit</text>
+    <text x="428" y="423" font-size="16">2–3 ft straight before elbow in Panasonic’s guide</text>
+    <text x="428" y="448" font-size="16" fill="#596861">Dashed underside: removable inspection panel.</text>
+    <text x="428" y="473" font-size="16" fill="#596861">Final depth must accommodate duct and bend.</text>
+    <path d="M950 350H991M950 192H991M980 198V344" stroke="#7b8278" stroke-width="1.5" fill="none" marker-end="url(#dimension)"/>
+    <text x="1005" y="213" font-size="14" fill="#596861" transform="rotate(90 1005 213)">Finished drop: to be designed</text>
+    <rect x="36" y="504" width="1008" height="36" rx="3" fill="#e7ece1"/>
+    <text x="52" y="528" font-size="16">Air travels through the grille, fan and sealed duct. The surrounding enclosure is outside the exhaust path.</text>
+  </g>
+</svg>

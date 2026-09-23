@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="500" viewBox="0 0 1080 500" role="img" aria-labelledby="title desc">
+<title id="title">Offset REC54 with an above-roof duct route</title><desc id="desc">Concept only. Air rises from the shower grille through a flashed penetration, travels along a supported, insulated and weather-protected duct above the roof, then turns upward into the bottom of a REC54 mounted on a custom curb and inlet enclosure. This is not a manufacturer-approved assembly drawing.</desc>
+<defs><pattern id="wood" width="58" height="25" patternUnits="userSpaceOnUse"><rect width="58" height="25" fill="#b5835c"/><path d="M0 0v25M9 12h29" stroke="#875b3d"/></pattern><pattern id="insulation" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#e7dfc5"/><path d="m0 12 12-12" stroke="#c8bf9f"/></pattern><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="m0 0 10 5-10 5" fill="#427365"/></marker></defs>
+<rect x="40" y="28" width="1000" height="308" rx="3" fill="#edf0e7"/>
+<g font-family="Arial,sans-serif" fill="#243e37"><text x="62" y="53" font-size="11" letter-spacing="2">OUTDOORS</text><text x="810" y="53" font-size="11" fill="#586c5c">CONCEPT · NOT TO SCALE</text></g>
+<path d="M60 340h132v28H60Zm234 0h726v28H294Z" fill="url(#wood)"/><path d="M60 315h132v25H60Zm234 0h726v25H294Z" fill="url(#insulation)"/>
+<path d="M60 315h129v-37m108 0v37h391m-3 0h21V151h129v164h185" fill="none" stroke="#576f5b" stroke-width="7"/>
+<path d="M60 309h122v-31m122 0v31h395V158m143 0v151h178" fill="none" stroke="#8b9c86" stroke-width="3"/>
+<path d="M415 261v49m-20 1h40m145-50v49m-20 1h40" fill="none" stroke="#8c9a86" stroke-width="8"/>
+<path d="M243 358V251q0-21 24-21h471q33 0 33-28v-49" fill="none" stroke="#819884" stroke-width="65"/>
+<path d="M243 358V251q0-21 24-21h471q33 0 33-28v-49" fill="none" stroke="#c7d3bf" stroke-width="60"/>
+<path d="M243 358V251q0-21 24-21h471q33 0 33-28v-49" fill="none" stroke="#7b8c80" stroke-width="37"/>
+<path d="M243 358V251q0-21 24-21h471q33 0 33-28v-49" fill="none" stroke="#fffdf5" stroke-width="33"/>
+<rect x="182" y="368" width="123" height="11" fill="#fbfaf4" stroke="#899788" stroke-width="2"/>
+<path d="M193 373h10m6 0h10m6 0h10m6 0h10m6 0h10m6 0h10" stroke="#667a6c" stroke-width="2"/>
+<path d="M691 141h159v14H691Z" fill="#5e7360"/><path d="M720 94q5-29 51-29t51 29v37H720Z" fill="#cbd4c4" stroke="#60755f" stroke-width="2"/><ellipse cx="771" cy="95" rx="51" ry="15" fill="#e1e7d9" stroke="#60755f" stroke-width="2"/><path d="M720 124q51 20 102 0v11q-51 20-102 0Z" fill="#3f5845"/>
+<path d="M243 435v-42M243 332v-58M350 230h133m54 0h133M771 219v-50m-49-27h-61m160 0h60" fill="none" stroke="#427365" stroke-width="3.5" marker-end="url(#arrow)"/>
+<g font-family="Arial,sans-serif" fill="#243e37"><text x="80" y="116" font-size="17" font-weight="bold">Bathroom grille stays here</text><text x="80" y="140" font-size="13" fill="#596861">Flashed penetration above the shower</text><path d="M208 155v48l23 33" fill="none" stroke="#89947f"/>
+<text x="366" y="102" font-size="17" font-weight="bold">Short duct across the roof</text><text x="366" y="125" font-size="13" fill="#596861">Insulated, supported and weather-protected</text><path d="M507 141v46" stroke="#89947f" fill="none"/>
+<text x="870" y="203" font-size="16" font-weight="bold">REC54</text><text x="870" y="225" font-size="13" fill="#596861">Air enters below</text><text x="870" y="268" font-size="14" font-weight="bold">Custom curb /</text><text x="870" y="288" font-size="14" font-weight="bold">inlet enclosure</text><path d="M863 270h-24" stroke="#89947f" fill="none"/>
+<text x="347" y="422" font-size="14">Actual duct length matters for sound and airflow.</text><text x="347" y="446" font-size="13" fill="#596861">At least 4 ft from grille to fan if relying on the remote-fan sound exception.</text><text x="62" y="477" font-size="11" letter-spacing="2">BATHROOM / SHOWER</text>
+</g>
+</svg>
