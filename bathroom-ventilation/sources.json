@@ -153,5 +153,35 @@
     "bytes": 347505,
     "sha256": "fa207e9f4478a8e841761cf425fc15eac805480dd7b86b7a219e200647b002cc",
     "pages": 8
+  },
+  {
+    "file": "spec-sheets/Fantech-CG-grilles-specifications-2005.pdf",
+    "source_url": "https://s3.amazonaws.com/s3.supplyhouse.com/product_files/CG-Sub1.pdf",
+    "resolved_url": "https://s3.amazonaws.com/s3.supplyhouse.com/product_files/CG-Sub1.pdf",
+    "source_note": "Fantech CG leaflet 412094, copyright 2005, linked by current CG5 SupplyHouse listing",
+    "retrieved_utc": "2026-09-23T05:44:42.876527+00:00",
+    "bytes": 864594,
+    "sha256": "84831456a4cbc762b18f81e55269fa3ed4593cd8c036362c07921359598c079e",
+    "pages": 2
+  },
+  {
+    "file": "spec-sheets/Fantech-accessories-catalog-2004.pdf",
+    "source_url": "https://assets.unilogcorp.com/267/ITEM/DOC/Fantech_45149_Catalog.pdf",
+    "resolved_url": "https://assets.unilogcorp.com/267/ITEM/DOC/Fantech_45149_Catalog.pdf",
+    "source_note": "Fantech August 2004 accessories catalog; MGE dimensions on page 3; historical dimensions require confirmation before fabrication",
+    "retrieved_utc": "2026-09-23T05:44:43.032564+00:00",
+    "bytes": 514871,
+    "sha256": "14ccf729b72908b9fd9430efcfacebd77caf5975fcf443365914e288f4e6c7eb",
+    "pages": 12
+  },
+  {
+    "file": "spec-sheets/Hart-Cooley-RH45-submittal.pdf",
+    "source_url": "https://s3.amazonaws.com/s3.supplyhouse.com/product_files/Hart-Cooley-610683-Submittal-Drawing.pdf",
+    "resolved_url": "https://s3.amazonaws.com/s3.supplyhouse.com/product_files/Hart-Cooley-610683-Submittal-Drawing.pdf",
+    "source_note": "Hart & Cooley RH45 submittal linked by current 610683 listing",
+    "retrieved_utc": "2026-09-23T05:44:42.585751+00:00",
+    "bytes": 56564,
+    "sha256": "7d74377e33f684521f38bcbf3991bfd45d89bd2dae60fc4c131c44d27d3595c2",
+    "pages": 1
   }
 ]

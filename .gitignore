@@ -13,3 +13,4 @@ _to_delete/
 # photos at full size, plus listing.md (full page text) and gallery.html.
 *_files/
 /1279 Lancashire Dr*.html
+.DS_Store
